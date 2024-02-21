@@ -1,0 +1,963 @@
+,Unnamed: 0,Company Name,Alt Name,Website,Service Type,Coordinates,Zipcode
+0,0,ELLERO S.R.L.,,www.ellero-fcagroup.it/concessionario/abarth?locationCode=00006981&bannerid=DL&source=WCOR,sales,"(7.491018, 44.649483)",12037
+1,1,AUTOINGROS TORINO S.P.A. - AUTOINGROS,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00006980&bannerid=DL&source=WCOR,sales,"(7.306126, 44.882829)",10064
+2,2,TUA S.P.A.,,www.tua-fcagroup.it/concessionario/abarth?locationCode=00007565&bannerid=DL&source=WCOR,sales,"(7.554585, 44.42474)",12100
+3,3,QUEEN CAR S.R.L.,,www.queencar-fcagroup.it/concessionario/abarth?locationCode=00008241&bannerid=DL&source=WCOR,sales,"(7.774415, 44.855186)",10022
+4,4,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005968&bannerid=DL&source=WCOR,sales,"(7.847117, 44.680754)",12042
+5,5,Torino Auto S.p.A.,,www.torinoauto-fcagroup.it/concessionario/abarth?locationCode=00004018&bannerid=DL&source=WCOR,sales,"(7.615714, 45.032198)",10137
+6,6,TORINO AUTO S.P.A.,,www.torinoauto-fcagroup.it/concessionario/abarth?locationCode=00008160&bannerid=DL&source=WCOR,sales,"(7.584874, 45.05268)",10095
+7,7,STELLANTIS &YOU TORINO,,www.mirafiorimotorvillage.it/concessionario/abarth?locationCode=00006997&bannerid=DL&source=WCOR,sales,"(7.624568, 45.034276)",10137
+8,8,Autoingros Torino S.p.A.,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00004102&bannerid=DL&source=WCOR,sales,"(7.638524, 45.056967)",10141
+9,9,Ellero S.r.l.,,www.ellero-fcagroup.it/concessionario/abarth?locationCode=00000491&bannerid=DL&source=WCOR,sales,"(7.812588, 44.398657)",12084
+10,10,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005990&bannerid=DL&source=WCOR,sales,"(7.674795, 45.077191)",10122
+11,11,FORZA SERVICE S.R.L.,, ,sales,"(7.673155, 45.105282)",10148
+12,12,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005974&bannerid=DL&source=WCOR,sales,"(7.68497, 45.106848)",10148
+13,13,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005967&bannerid=DL&source=WCOR,sales,"(8.019071, 44.689575)",12051
+14,14,AUTOINGROS TORINO S.P.A. - AUTOINGROS,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00004097&bannerid=DL&source=WCOR,sales,"(7.65568, 45.141996)",10071
+15,15,AUTOINGROS TORINO S.P.A. - AUTOINGROS,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00004097&bannerid=DL&source=WCOR,sales,"(7.65568, 45.141996)",10071
+16,16,TORINO AUTO S.P.A.,,www.torinoauto-fcagroup.it/concessionario/abarth?locationCode=00008160&bannerid=DL&source=WCOR,sales,"(7.584874, 45.05268)",10095
+17,17,FORZA SERVICE S.R.L.,, ,sales,"(7.673155, 45.105282)",10148
+18,18,Autoingros Torino S.p.A.,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00004102&bannerid=DL&source=WCOR,sales,"(7.638524, 45.056967)",10141
+19,19,Torino Auto S.p.A.,,www.torinoauto-fcagroup.it/concessionario/abarth?locationCode=00004018&bannerid=DL&source=WCOR,sales,"(7.615714, 45.032198)",10137
+20,20,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005974&bannerid=DL&source=WCOR,sales,"(7.68497, 45.106848)",10148
+21,21,STELLANTIS &YOU TORINO,,www.mirafiorimotorvillage.it/concessionario/abarth?locationCode=00006997&bannerid=DL&source=WCOR,sales,"(7.624568, 45.034276)",10137
+22,22,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005990&bannerid=DL&source=WCOR,sales,"(7.674795, 45.077191)",10122
+23,23,AUTOINGROS TORINO S.P.A. - AUTOINGROS,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00006980&bannerid=DL&source=WCOR,sales,"(7.306126, 44.882829)",10064
+24,24,Nuova Auto Alpina S.r.l.,,www.autoalpina-fcagroup.it/concessionario/abarth?locationCode=00001204&bannerid=DL&source=WCOR,sales,"(7.31949, 45.72804)",11020
+25,25,NUOVA AUTO ALPINA S.R.L.,,www.autoalpina-fcagroup.it/concessionario/abarth?locationCode=00006845&bannerid=DL&source=WCOR,sales,"(7.90578, 45.46966)",10015
+26,26,QUEEN CAR S.R.L.,,www.queencar-fcagroup.it/concessionario/abarth?locationCode=00008241&bannerid=DL&source=WCOR,sales,"(7.774415, 44.855186)",10022
+27,27,ELLERO S.R.L.,,www.ellero-fcagroup.it/concessionario/abarth?locationCode=00006981&bannerid=DL&source=WCOR,sales,"(7.491018, 44.649483)",12037
+28,28,Logica S.p.A.,,www.logica-fcagroup.it/concessionario/abarth?locationCode=00003825&bannerid=DL&source=WCOR,sales,"(8.056298, 45.569614)",13900
+29,29,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005968&bannerid=DL&source=WCOR,sales,"(7.847117, 44.680754)",12042
+30,30,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005967&bannerid=DL&source=WCOR,sales,"(8.019071, 44.689575)",12051
+31,31,QUEEN CAR S.R.L.,,www.queencar-fcagroup.it/concessionario/abarth?locationCode=00008241&bannerid=DL&source=WCOR,sales,"(7.774415, 44.855186)",10022
+32,32,ELLERO S.R.L.,,www.ellero-fcagroup.it/concessionario/abarth?locationCode=00006981&bannerid=DL&source=WCOR,sales,"(7.491018, 44.649483)",12037
+33,33,Ellero S.r.l.,,www.ellero-fcagroup.it/concessionario/abarth?locationCode=00000491&bannerid=DL&source=WCOR,sales,"(7.812588, 44.398657)",12084
+34,34,TUA S.P.A.,,www.tua-fcagroup.it/concessionario/abarth?locationCode=00007565&bannerid=DL&source=WCOR,sales,"(7.554585, 44.42474)",12100
+35,35,STELLANTIS &YOU TORINO,,www.mirafiorimotorvillage.it/concessionario/abarth?locationCode=00006997&bannerid=DL&source=WCOR,sales,"(7.624568, 45.034276)",10137
+36,36,Torino Auto S.p.A.,,www.torinoauto-fcagroup.it/concessionario/abarth?locationCode=00004018&bannerid=DL&source=WCOR,sales,"(7.615714, 45.032198)",10137
+37,37,Autoingros Torino S.p.A.,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00004102&bannerid=DL&source=WCOR,sales,"(7.638524, 45.056967)",10141
+38,38,TORINO AUTO S.P.A.,,www.torinoauto-fcagroup.it/concessionario/abarth?locationCode=00008160&bannerid=DL&source=WCOR,sales,"(7.584874, 45.05268)",10095
+39,39,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005990&bannerid=DL&source=WCOR,sales,"(7.674795, 45.077191)",10122
+40,40,AUTOINGROS TORINO S.P.A. - AUTOINGROS,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00006980&bannerid=DL&source=WCOR,sales,"(7.306126, 44.882829)",10064
+41,41,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005974&bannerid=DL&source=WCOR,sales,"(7.68497, 45.106848)",10148
+42,42,FORZA SERVICE S.R.L.,, ,sales,"(7.673155, 45.105282)",10148
+43,43,AUTOINGROS TORINO S.P.A. - AUTOINGROS,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00004097&bannerid=DL&source=WCOR,sales,"(7.65568, 45.141996)",10071
+44,44,Autoliguria,,www.autoliguria-fcagroup.it/concessionario/abarth?locationCode=00002780&bannerid=DL&source=WCOR,sales,"(8.461721, 44.296338)",17100
+45,45,Grignolio & C. S.r.l.,,www.grignolio-fcagroup.it/concessionario/abarth?locationCode=00000327&bannerid=DL&source=WCOR,sales,"(8.450854, 45.126175)",15033
+46,46,ALESSANDRIA AUTO S.P.A.,,www.alessandriauto.it/concessionario/abarth?locationCode=00003623&bannerid=DL&source=WCOR,sales,"(8.687551, 44.890525)",15122
+47,47,AUTOLIGURIA S.R.L.,,www.autoliguria-fcagroup.it/concessionario/abarth?locationCode=00007175&bannerid=DL&source=WCOR,sales,"(8.189273, 44.055853)",17031
+48,48,AUTOINGROS TORINO S.P.A. - AUTOINGROS,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00004097&bannerid=DL&source=WCOR,sales,"(7.65568, 45.141996)",10071
+49,49,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005974&bannerid=DL&source=WCOR,sales,"(7.68497, 45.106848)",10148
+50,50,FORZA SERVICE S.R.L.,, ,sales,"(7.673155, 45.105282)",10148
+51,51,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005990&bannerid=DL&source=WCOR,sales,"(7.674795, 45.077191)",10122
+52,52,NUOVA AUTO ALPINA S.R.L.,,www.autoalpina-fcagroup.it/concessionario/abarth?locationCode=00006845&bannerid=DL&source=WCOR,sales,"(7.90578, 45.46966)",10015
+53,53,Autoingros Torino S.p.A.,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00004102&bannerid=DL&source=WCOR,sales,"(7.638524, 45.056967)",10141
+54,54,STELLANTIS &YOU TORINO,,www.mirafiorimotorvillage.it/concessionario/abarth?locationCode=00006997&bannerid=DL&source=WCOR,sales,"(7.624568, 45.034276)",10137
+55,55,TORINO AUTO S.P.A.,,www.torinoauto-fcagroup.it/concessionario/abarth?locationCode=00008160&bannerid=DL&source=WCOR,sales,"(7.584874, 45.05268)",10095
+56,56,Torino Auto S.p.A.,,www.torinoauto-fcagroup.it/concessionario/abarth?locationCode=00004018&bannerid=DL&source=WCOR,sales,"(7.615714, 45.032198)",10137
+57,57,Logica S.p.A.,,www.logica-fcagroup.it/concessionario/abarth?locationCode=00003825&bannerid=DL&source=WCOR,sales,"(8.056298, 45.569614)",13900
+58,58,QUEEN CAR S.R.L.,,www.queencar-fcagroup.it/concessionario/abarth?locationCode=00008241&bannerid=DL&source=WCOR,sales,"(7.774415, 44.855186)",10022
+59,59,GRIGNOLIO & C. S.R.L.,,www.grignolio-fcagroup.it/concessionario/abarth?locationCode=00007486&bannerid=DL&source=WCOR,sales,"(8.405546, 45.305694)",13100
+60,60,Grignolio & C. S.r.l.,,www.grignolio-fcagroup.it/concessionario/abarth?locationCode=00000327&bannerid=DL&source=WCOR,sales,"(8.450854, 45.126175)",15033
+61,61,AUTOINGROS TORINO S.P.A. - AUTOINGROS,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00006980&bannerid=DL&source=WCOR,sales,"(7.306126, 44.882829)",10064
+62,62,ASTRA S.P.A.,,www.astra-fcagroup.it/concessionario/abarth?locationCode=00007396&bannerid=DL&source=WCOR,sales,"(8.568755, 45.450705)",28060
+63,63,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005968&bannerid=DL&source=WCOR,sales,"(7.847117, 44.680754)",12042
+64,64,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005967&bannerid=DL&source=WCOR,sales,"(8.019071, 44.689575)",12051
+65,65,Nuova Auto Alpina S.r.l.,,www.autoalpina-fcagroup.it/concessionario/abarth?locationCode=00001204&bannerid=DL&source=WCOR,sales,"(7.31949, 45.72804)",11020
+66,66,ELLERO S.R.L.,,www.ellero-fcagroup.it/concessionario/abarth?locationCode=00006981&bannerid=DL&source=WCOR,sales,"(7.491018, 44.649483)",12037
+67,67,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005967&bannerid=DL&source=WCOR,sales,"(8.019071, 44.689575)",12051
+68,68,ALESSANDRIA AUTO S.P.A.,,www.alessandriauto.it/concessionario/abarth?locationCode=00003623&bannerid=DL&source=WCOR,sales,"(8.687551, 44.890525)",15122
+69,69,Autoliguria,,www.autoliguria-fcagroup.it/concessionario/abarth?locationCode=00002780&bannerid=DL&source=WCOR,sales,"(8.461721, 44.296338)",17100
+70,70,Visauto S.r.l.,,www.visauto-fcagroup.it/concessionario/abarth?locationCode=00002764&bannerid=DL&source=WCOR,sales,"(8.85618, 44.901424)",15057
+71,71,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00007806&bannerid=DL&source=WCOR,sales,"(8.858139, 44.418794)",16153
+72,72,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005968&bannerid=DL&source=WCOR,sales,"(7.847117, 44.680754)",12042
+73,73,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00007818&bannerid=DL&source=WCOR,sales,"(8.945708, 44.400451)",16145
+74,74,Grignolio & C. S.r.l.,,www.grignolio-fcagroup.it/concessionario/abarth?locationCode=00000327&bannerid=DL&source=WCOR,sales,"(8.450854, 45.126175)",15033
+75,75,QUEEN CAR S.R.L.,,www.queencar-fcagroup.it/concessionario/abarth?locationCode=00008241&bannerid=DL&source=WCOR,sales,"(7.774415, 44.855186)",10022
+76,76,Ellero S.r.l.,,www.ellero-fcagroup.it/concessionario/abarth?locationCode=00000491&bannerid=DL&source=WCOR,sales,"(7.812588, 44.398657)",12084
+77,77,Danilo Degiorgi,,www.degiorgi-fcagroup.it/concessionario/abarth?locationCode=00001167&bannerid=DL&source=WCOR,sales,"(9.057335, 44.996813)",27058
+78,78,AUTOLIGURIA S.R.L.,,www.autoliguria-fcagroup.it/concessionario/abarth?locationCode=00007175&bannerid=DL&source=WCOR,sales,"(8.189273, 44.055853)",17031
+79,79,GRIGNOLIO & C. S.R.L.,,www.grignolio-fcagroup.it/concessionario/abarth?locationCode=00007486&bannerid=DL&source=WCOR,sales,"(8.405546, 45.305694)",13100
+80,80,TUA S.P.A.,,www.tua-fcagroup.it/concessionario/abarth?locationCode=00007565&bannerid=DL&source=WCOR,sales,"(7.554585, 44.42474)",12100
+81,81,ELLERO S.R.L.,,www.ellero-fcagroup.it/concessionario/abarth?locationCode=00006981&bannerid=DL&source=WCOR,sales,"(7.491018, 44.649483)",12037
+82,82,GRIGNOLIO & C. S.R.L.,,www.grignolio-fcagroup.it/concessionario/abarth?locationCode=00007486&bannerid=DL&source=WCOR,sales,"(8.405546, 45.305694)",13100
+83,83,Grignolio & C. S.r.l.,,www.grignolio-fcagroup.it/concessionario/abarth?locationCode=00000327&bannerid=DL&source=WCOR,sales,"(8.450854, 45.126175)",15033
+84,84,ASTRA S.P.A.,,www.astra-fcagroup.it/concessionario/abarth?locationCode=00007396&bannerid=DL&source=WCOR,sales,"(8.568755, 45.450705)",28060
+85,85,Stav S.p.A.,,www.stav-fcagroup.it/concessionario/abarth?locationCode=00000455&bannerid=DL&source=WCOR,sales,"(8.848962, 45.298492)",27029
+86,86,S.T.A.V. S.P.A.,,www.stav-fcagroup.it/concessionario/abarth?locationCode=00000453&bannerid=DL&source=WCOR,sales,"(8.879012, 45.454233)",20013
+87,87,Garavaglia Auto,,www.garavaglia-fcagroup.it/concessionario/abarth?locationCode=00006158&bannerid=DL&source=WCOR,sales,"(8.858473, 45.514344)",20010
+88,88,Logica S.p.A.,,www.logica-fcagroup.it/concessionario/abarth?locationCode=00003825&bannerid=DL&source=WCOR,sales,"(8.056298, 45.569614)",13900
+89,89,ALESSANDRIA AUTO S.P.A.,,www.alessandriauto.it/concessionario/abarth?locationCode=00003623&bannerid=DL&source=WCOR,sales,"(8.687551, 44.890525)",15122
+90,90,NUOVA AUTO ALPINA S.R.L.,,www.autoalpina-fcagroup.it/concessionario/abarth?locationCode=00006845&bannerid=DL&source=WCOR,sales,"(7.90578, 45.46966)",10015
+91,91,Visauto S.r.l.,,www.visauto-fcagroup.it/concessionario/abarth?locationCode=00002764&bannerid=DL&source=WCOR,sales,"(8.85618, 44.901424)",15057
+92,92,DENICAR S.P.A.,, ,sales,"(9.079883, 45.420187)",20090
+93,93,Astra S.p.A.,,www.astra-fcagroup.it/concessionario/abarth?locationCode=00000215&bannerid=DL&source=WCOR,sales,"(8.561643, 45.749794)",28041
+94,94,SANTINO CERIANI S.R.L.,,www.ceriani-fcagroup.it/concessionario/abarth?locationCode=00005465&bannerid=DL&source=WCOR,sales,"(8.937077, 45.610855)",20025
+95,95,AUTOINGROSS TORINO SPA,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00010222&bannerid=DL&source=WCOR,sales,"(9.12008, 45.141575)",27028
+96,96,Danilo Degiorgi,,www.degiorgi-fcagroup.it/concessionario/abarth?locationCode=00001167&bannerid=DL&source=WCOR,sales,"(9.057335, 44.996813)",27058
+97,97,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005938&bannerid=DL&source=WCOR,sales,"(9.094793, 45.481844)",20153
+98,98,Denicar S.p.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005933&bannerid=DL&source=WCOR,sales,"(9.119037, 45.448956)",20152
+99,99,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005974&bannerid=DL&source=WCOR,sales,"(7.68497, 45.106848)",10148
+100,100,MOCAUTOGROUP S.R.L.,,www.mocauto-fcagroup.it/concessionario/abarth?locationCode=00008426&bannerid=DL&source=WCOR,sales,"(9.175952, 45.414302)",20142
+101,101,Fassina S.p.A.,,www.fassina-fcagroup.it/concessionario/abarth?locationCode=00006351&bannerid=DL&source=WCOR,sales,"(9.118144, 45.520616)",20157
+102,102,FORZA SERVICE S.R.L.,, ,sales,"(7.673155, 45.105282)",10148
+103,103,STELLANTIS &YOU MILANO,,www.motorvillagearese.it/concessionario/abarth?locationCode=00010041&bannerid=DL&source=WCOR,sales,"(9.150759, 45.484594)",20149
+104,104,AUTOINGROS TORINO S.P.A. - AUTOINGROS,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00004097&bannerid=DL&source=WCOR,sales,"(7.65568, 45.141996)",10071
+105,105,AUTOTORINO S.P.A.,,www.autotorino-fcagroup.it/concessionario/abarth?locationCode=00007567&bannerid=DL&source=WCOR,sales,"(9.041046, 45.614012)",21047
+106,106,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005990&bannerid=DL&source=WCOR,sales,"(7.674795, 45.077191)",10122
+107,107,Autoingros Torino S.p.A.,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00004102&bannerid=DL&source=WCOR,sales,"(7.638524, 45.056967)",10141
+108,108,Autoalberta S.r.l.,,www.autoalberta-fcagroup.it/concessionario/abarth?locationCode=00003263&bannerid=DL&source=WCOR,sales,"(9.038126, 45.684819)",22074
+109,109,SIMOCAR S.R.L.,, ,sales,"(9.16483, 45.56899)",20037
+110,110,STELLANTIS &YOU TORINO,,www.mirafiorimotorvillage.it/concessionario/abarth?locationCode=00006997&bannerid=DL&source=WCOR,sales,"(7.624568, 45.034276)",10137
+111,111,Marelli & Pozzi S.p.A.,,www.marellipozzi-fcagroup.it/concessionario/abarth?locationCode=00003352&bannerid=DL&source=WCOR,sales,"(8.709322, 45.840183)",21026
+112,112,MARELLI & POZZI S.P.A.,, ,sales,"(8.70502, 45.841491)",21026
+113,113,MARELLI & POZZI S.P.A.,,www.marellipozzi-fcagroup.it/concessionario/abarth?locationCode=00003354&bannerid=DL&source=WCOR,sales,"(8.842779, 45.799899)",21100
+114,114,QUEEN CAR S.R.L.,,www.queencar-fcagroup.it/concessionario/abarth?locationCode=00008241&bannerid=DL&source=WCOR,sales,"(7.774415, 44.855186)",10022
+115,115,Torino Auto S.p.A.,,www.torinoauto-fcagroup.it/concessionario/abarth?locationCode=00004018&bannerid=DL&source=WCOR,sales,"(7.615714, 45.032198)",10137
+116,116,TORINO AUTO S.P.A.,,www.torinoauto-fcagroup.it/concessionario/abarth?locationCode=00008160&bannerid=DL&source=WCOR,sales,"(7.584874, 45.05268)",10095
+117,117,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00005967&bannerid=DL&source=WCOR,sales,"(8.019071, 44.689575)",12051
+118,118,MASSIRONI S.R.L.,,www.massironi-fcagroup.it/concessionario/abarth?locationCode=00001872&bannerid=DL&source=WCOR,sales,"(9.32164, 45.36358)",20077
+119,119,Ren Car S.r.l.,,www.rencar-fcagroup.it/concessionario/abarth?locationCode=00002414&bannerid=DL&source=WCOR,sales,"(8.550569, 45.948891)",28923
+120,120,Astra S.p.A.,,www.astra-fcagroup.it/concessionario/abarth?locationCode=00000215&bannerid=DL&source=WCOR,sales,"(8.561643, 45.749794)",28041
+121,121,MARELLI & POZZI S.P.A.,, ,sales,"(8.70502, 45.841491)",21026
+122,122,Marelli & Pozzi S.p.A.,,www.marellipozzi-fcagroup.it/concessionario/abarth?locationCode=00003352&bannerid=DL&source=WCOR,sales,"(8.709322, 45.840183)",21026
+123,123,MARELLI & POZZI S.P.A.,,www.marellipozzi-fcagroup.it/concessionario/abarth?locationCode=00003354&bannerid=DL&source=WCOR,sales,"(8.842779, 45.799899)",21100
+124,124,Logica S.p.A.,,www.logica-fcagroup.it/concessionario/abarth?locationCode=00003825&bannerid=DL&source=WCOR,sales,"(8.056298, 45.569614)",13900
+125,125,ASTRA S.P.A.,,www.astra-fcagroup.it/concessionario/abarth?locationCode=00007396&bannerid=DL&source=WCOR,sales,"(8.568755, 45.450705)",28060
+126,126,SANTINO CERIANI S.R.L.,,www.ceriani-fcagroup.it/concessionario/abarth?locationCode=00005465&bannerid=DL&source=WCOR,sales,"(8.937077, 45.610855)",20025
+127,127,SERRATORE S.P.A. - SERAUTO,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00003523&bannerid=DL&source=WCOR,sales,"(9.066516, 45.776898)",22070
+128,128,Garavaglia Auto,,www.garavaglia-fcagroup.it/concessionario/abarth?locationCode=00006158&bannerid=DL&source=WCOR,sales,"(8.858473, 45.514344)",20010
+129,129,Autoalberta S.r.l.,,www.autoalberta-fcagroup.it/concessionario/abarth?locationCode=00003263&bannerid=DL&source=WCOR,sales,"(9.038126, 45.684819)",22074
+130,130,AUTOTORINO S.P.A.,,www.autotorino-fcagroup.it/concessionario/abarth?locationCode=00007567&bannerid=DL&source=WCOR,sales,"(9.041046, 45.614012)",21047
+131,131,SERRATORE S.P.A. - SERAUTO,, ,sales,"(9.141545, 45.736431)",22063
+132,132,S.T.A.V. S.P.A.,,www.stav-fcagroup.it/concessionario/abarth?locationCode=00000453&bannerid=DL&source=WCOR,sales,"(8.879012, 45.454233)",20013
+133,133,NUOVA AUTO ALPINA S.R.L.,,www.autoalpina-fcagroup.it/concessionario/abarth?locationCode=00006845&bannerid=DL&source=WCOR,sales,"(7.90578, 45.46966)",10015
+134,134,GRIGNOLIO & C. S.R.L.,,www.grignolio-fcagroup.it/concessionario/abarth?locationCode=00007486&bannerid=DL&source=WCOR,sales,"(8.405546, 45.305694)",13100
+135,135,Gruppo Serratore,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00003521&bannerid=DL&source=WCOR,sales,"(9.237148, 45.802863)",22036
+136,136,Fassina S.p.A.,,www.fassina-fcagroup.it/concessionario/abarth?locationCode=00006351&bannerid=DL&source=WCOR,sales,"(9.118144, 45.520616)",20157
+137,137,SIMOCAR S.R.L.,, ,sales,"(9.16483, 45.56899)",20037
+138,138,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005938&bannerid=DL&source=WCOR,sales,"(9.094793, 45.481844)",20153
+139,139,STELLANTIS &YOU MILANO,,www.motorvillagearese.it/concessionario/abarth?locationCode=00010041&bannerid=DL&source=WCOR,sales,"(9.150759, 45.484594)",20149
+140,140,G. VILLA S.R.L.,,www.villa-fcagroup.it/concessionario/abarth?locationCode=00001859&bannerid=DL&source=WCOR,sales,"(9.254339, 45.60064)",20052
+141,141,Stav S.p.A.,,www.stav-fcagroup.it/concessionario/abarth?locationCode=00000455&bannerid=DL&source=WCOR,sales,"(8.848962, 45.298492)",27029
+142,142,DENICAR S.P.A.,, ,sales,"(9.079883, 45.420187)",20090
+143,143,Denicar S.p.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005933&bannerid=DL&source=WCOR,sales,"(9.119037, 45.448956)",20152
+144,144,Penati Auto S.p.A.,,www.penati-fcagroup.it/concessionario/abarth?locationCode=00004614&bannerid=DL&source=WCOR,sales,"(9.312783, 45.701741)",23880
+145,145,PENATI AUTO S.P.A.,,www.penati-fcagroup.it/concessionario/abarth?locationCode=00004613&bannerid=DL&source=WCOR,sales,"(9.321709, 45.612446)",20043
+146,146,Ren Car S.r.l.,,www.rencar-fcagroup.it/concessionario/abarth?locationCode=00002414&bannerid=DL&source=WCOR,sales,"(8.550569, 45.948891)",28923
+147,147,MARELLI & POZZI S.P.A.,, ,sales,"(8.70502, 45.841491)",21026
+148,148,Marelli & Pozzi S.p.A.,,www.marellipozzi-fcagroup.it/concessionario/abarth?locationCode=00003352&bannerid=DL&source=WCOR,sales,"(8.709322, 45.840183)",21026
+149,149,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00007818&bannerid=DL&source=WCOR,sales,"(8.945708, 44.400451)",16145
+150,150,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00007806&bannerid=DL&source=WCOR,sales,"(8.858139, 44.418794)",16153
+151,151,Visauto S.r.l.,,www.visauto-fcagroup.it/concessionario/abarth?locationCode=00002764&bannerid=DL&source=WCOR,sales,"(8.85618, 44.901424)",15057
+152,152,ALESSANDRIA AUTO S.P.A.,,www.alessandriauto.it/concessionario/abarth?locationCode=00003623&bannerid=DL&source=WCOR,sales,"(8.687551, 44.890525)",15122
+153,153,Danilo Degiorgi,,www.degiorgi-fcagroup.it/concessionario/abarth?locationCode=00001167&bannerid=DL&source=WCOR,sales,"(9.057335, 44.996813)",27058
+154,154,AUTOINGROSS TORINO SPA,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00010222&bannerid=DL&source=WCOR,sales,"(9.12008, 45.141575)",27028
+155,155,Autoliguria,,www.autoliguria-fcagroup.it/concessionario/abarth?locationCode=00002780&bannerid=DL&source=WCOR,sales,"(8.461721, 44.296338)",17100
+156,156,Programma Auto S.p.A.,, ,sales,"(9.706045, 45.035124)",29122
+157,157,Grignolio & C. S.r.l.,,www.grignolio-fcagroup.it/concessionario/abarth?locationCode=00000327&bannerid=DL&source=WCOR,sales,"(8.450854, 45.126175)",15033
+158,158,PROGRAMMA AUTO S.P.A.,,www.programmauto-fcagroup.it/concessionario/abarth?locationCode=00002728&bannerid=DL&source=WCOR,sales,"(9.73535, 45.0306)",29122
+159,159,Stav S.p.A.,,www.stav-fcagroup.it/concessionario/abarth?locationCode=00000455&bannerid=DL&source=WCOR,sales,"(8.848962, 45.298492)",27029
+160,160,AUTOINGROSS TORINO SPA,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00010222&bannerid=DL&source=WCOR,sales,"(9.12008, 45.141575)",27028
+161,161,DENICAR S.P.A.,, ,sales,"(9.079883, 45.420187)",20090
+162,162,MOCAUTOGROUP S.R.L.,,www.mocauto-fcagroup.it/concessionario/abarth?locationCode=00008426&bannerid=DL&source=WCOR,sales,"(9.175952, 45.414302)",20142
+163,163,Denicar S.p.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005933&bannerid=DL&source=WCOR,sales,"(9.119037, 45.448956)",20152
+164,164,Stav S.p.A.,,www.stav-fcagroup.it/concessionario/abarth?locationCode=00000455&bannerid=DL&source=WCOR,sales,"(8.848962, 45.298492)",27029
+165,165,MASSIRONI S.R.L.,,www.massironi-fcagroup.it/concessionario/abarth?locationCode=00001872&bannerid=DL&source=WCOR,sales,"(9.32164, 45.36358)",20077
+166,166,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005938&bannerid=DL&source=WCOR,sales,"(9.094793, 45.481844)",20153
+167,167,STELLANTIS &YOU MILANO,,www.motorvillagearese.it/concessionario/abarth?locationCode=00010041&bannerid=DL&source=WCOR,sales,"(9.150759, 45.484594)",20149
+168,168,S.T.A.V. S.P.A.,,www.stav-fcagroup.it/concessionario/abarth?locationCode=00000453&bannerid=DL&source=WCOR,sales,"(8.879012, 45.454233)",20013
+169,169,Fassina S.p.A.,,www.fassina-fcagroup.it/concessionario/abarth?locationCode=00006351&bannerid=DL&source=WCOR,sales,"(9.118144, 45.520616)",20157
+170,170,Lazzari,,www.lazzari-fcagroup.it/concessionario/abarth?locationCode=00005786&bannerid=DL&source=WCOR,sales,"(9.458235, 45.323485)",26900
+171,171,Danilo Degiorgi,,www.degiorgi-fcagroup.it/concessionario/abarth?locationCode=00001167&bannerid=DL&source=WCOR,sales,"(9.057335, 44.996813)",27058
+172,172,Garavaglia Auto,,www.garavaglia-fcagroup.it/concessionario/abarth?locationCode=00006158&bannerid=DL&source=WCOR,sales,"(8.858473, 45.514344)",20010
+173,173,SIMOCAR S.R.L.,, ,sales,"(9.16483, 45.56899)",20037
+174,174,Chioda S.r.l.,,www.chioda-fcagroup.it/concessionario/abarth?locationCode=00001664&bannerid=DL&source=WCOR,sales,"(9.412327, 45.496858)",20066
+175,175,AUTOTORINO S.P.A.,,www.autotorino-fcagroup.it/concessionario/abarth?locationCode=00007567&bannerid=DL&source=WCOR,sales,"(9.041046, 45.614012)",21047
+176,176,G. Villa S.r.l.,,www.villa-fcagroup.it/concessionario/abarth?locationCode=00001861&bannerid=DL&source=WCOR,sales,"(9.316, 45.579892)",20052
+177,177,G. VILLA S.R.L.,,www.villa-fcagroup.it/concessionario/abarth?locationCode=00001859&bannerid=DL&source=WCOR,sales,"(9.254339, 45.60064)",20052
+178,178,SANTINO CERIANI S.R.L.,,www.ceriani-fcagroup.it/concessionario/abarth?locationCode=00005465&bannerid=DL&source=WCOR,sales,"(8.937077, 45.610855)",20025
+179,179,PENATI AUTO S.P.A.,,www.penati-fcagroup.it/concessionario/abarth?locationCode=00004613&bannerid=DL&source=WCOR,sales,"(9.321709, 45.612446)",20043
+180,180,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001567&bannerid=DL&source=WCOR,sales,"(9.626082, 45.367351)",26010
+181,181,Autoalberta S.r.l.,,www.autoalberta-fcagroup.it/concessionario/abarth?locationCode=00003263&bannerid=DL&source=WCOR,sales,"(9.038126, 45.684819)",22074
+182,182,ASTRA S.P.A.,,www.astra-fcagroup.it/concessionario/abarth?locationCode=00007396&bannerid=DL&source=WCOR,sales,"(8.568755, 45.450705)",28060
+183,183,Visauto S.r.l.,,www.visauto-fcagroup.it/concessionario/abarth?locationCode=00002764&bannerid=DL&source=WCOR,sales,"(8.85618, 44.901424)",15057
+184,184,LAZZARI S.P.A.,,www.lazzari-fcagroup.it/concessionario/abarth?locationCode=00005783&bannerid=DL&source=WCOR,sales,"(9.673888, 45.150789)",26845
+185,185,Penati Auto S.p.A.,,www.penati-fcagroup.it/concessionario/abarth?locationCode=00004614&bannerid=DL&source=WCOR,sales,"(9.312783, 45.701741)",23880
+186,186,SERRATORE S.P.A. - SERAUTO,, ,sales,"(9.141545, 45.736431)",22063
+187,187,PENATI AUTO S.P.A.,, ,sales,"(9.401015, 45.690085)",23870
+188,188,Grignolio & C. S.r.l.,,www.grignolio-fcagroup.it/concessionario/abarth?locationCode=00000327&bannerid=DL&source=WCOR,sales,"(8.450854, 45.126175)",15033
+189,189,AUTOGHINZANI S.R.L.,,www.autoghinzani-fcagroup.it/concessionario/abarth?locationCode=00002755&bannerid=DL&source=WCOR,sales,"(9.468328, 45.688347)",24033
+190,190,ALESSANDRIA AUTO S.P.A.,,www.alessandriauto.it/concessionario/abarth?locationCode=00003623&bannerid=DL&source=WCOR,sales,"(8.687551, 44.890525)",15122
+191,191,GRIGNOLIO & C. S.R.L.,,www.grignolio-fcagroup.it/concessionario/abarth?locationCode=00007486&bannerid=DL&source=WCOR,sales,"(8.405546, 45.305694)",13100
+192,192,BRESCIANI S.R.L.,, ,sales,"(9.6285, 45.6037)",24059
+193,193,Programma Auto S.p.A.,, ,sales,"(9.706045, 45.035124)",29122
+194,194,SERRATORE S.P.A. - SERAUTO,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00003523&bannerid=DL&source=WCOR,sales,"(9.066516, 45.776898)",22070
+195,195,PROGRAMMA AUTO S.P.A.,,www.programmauto-fcagroup.it/concessionario/abarth?locationCode=00002728&bannerid=DL&source=WCOR,sales,"(9.73535, 45.0306)",29122
+196,196,Gruppo Serratore,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00003521&bannerid=DL&source=WCOR,sales,"(9.237148, 45.802863)",22036
+197,197,Gruppo Emmeciauto - Contiauto,,www.gruppoemmeciauto-fcagroup.it/concessionario/abarth?locationCode=00000565&bannerid=DL&source=WCOR,sales,"(9.602322, 45.686365)",24035
+198,198,MARELLI & POZZI S.P.A.,,www.marellipozzi-fcagroup.it/concessionario/abarth?locationCode=00003354&bannerid=DL&source=WCOR,sales,"(8.842779, 45.799899)",21100
+199,199,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00008187&bannerid=DL&source=WCOR,sales,"(9.644124, 45.674943)",24127
+200,200,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001578&bannerid=DL&source=WCOR,sales,"(9.924302, 45.401931)",25034
+201,201,SERRATORE S.P.A. - SERAUTO,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00007231&bannerid=DL&source=WCOR,sales,"(9.410331, 45.838582)",23900
+202,202,Astra S.p.A.,,www.astra-fcagroup.it/concessionario/abarth?locationCode=00000215&bannerid=DL&source=WCOR,sales,"(8.561643, 45.749794)",28041
+203,203,Marelli & Pozzi S.p.A.,,www.marellipozzi-fcagroup.it/concessionario/abarth?locationCode=00003352&bannerid=DL&source=WCOR,sales,"(8.709322, 45.840183)",21026
+204,204,MARELLI & POZZI S.P.A.,, ,sales,"(8.70502, 45.841491)",21026
+205,205,AUTOGHINZANI S.R.L.,,www.autoghinzani-fcagroup.it/concessionario/abarth?locationCode=00007701&bannerid=DL&source=WCOR,sales,"(9.797358, 45.678648)",24060
+206,206,GRUPPO BOSSONI S.P.A.,, ,sales,"(9.981407, 45.149088)",26100
+207,207,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00008165&bannerid=DL&source=WCOR,sales,"(10.005793, 45.146027)",26100
+208,208,SERRATORE S.P.A. - SERAUTO,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00003523&bannerid=DL&source=WCOR,sales,"(9.066516, 45.776898)",22070
+209,209,Gruppo Serratore,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00003521&bannerid=DL&source=WCOR,sales,"(9.237148, 45.802863)",22036
+210,210,SERRATORE S.P.A. - SERAUTO,, ,sales,"(9.141545, 45.736431)",22063
+211,211,MARELLI & POZZI S.P.A.,,www.marellipozzi-fcagroup.it/concessionario/abarth?locationCode=00003354&bannerid=DL&source=WCOR,sales,"(8.842779, 45.799899)",21100
+212,212,Autoalberta S.r.l.,,www.autoalberta-fcagroup.it/concessionario/abarth?locationCode=00003263&bannerid=DL&source=WCOR,sales,"(9.038126, 45.684819)",22074
+213,213,SERRATORE S.P.A. - SERAUTO,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00007231&bannerid=DL&source=WCOR,sales,"(9.410331, 45.838582)",23900
+214,214,Penati Auto S.p.A.,,www.penati-fcagroup.it/concessionario/abarth?locationCode=00004614&bannerid=DL&source=WCOR,sales,"(9.312783, 45.701741)",23880
+215,215,AUTOTORINO S.P.A.,,www.autotorino-fcagroup.it/concessionario/abarth?locationCode=00007567&bannerid=DL&source=WCOR,sales,"(9.041046, 45.614012)",21047
+216,216,Marelli & Pozzi S.p.A.,,www.marellipozzi-fcagroup.it/concessionario/abarth?locationCode=00003352&bannerid=DL&source=WCOR,sales,"(8.709322, 45.840183)",21026
+217,217,MARELLI & POZZI S.P.A.,, ,sales,"(8.70502, 45.841491)",21026
+218,218,PENATI AUTO S.P.A.,, ,sales,"(9.401015, 45.690085)",23870
+219,219,SANTINO CERIANI S.R.L.,,www.ceriani-fcagroup.it/concessionario/abarth?locationCode=00005465&bannerid=DL&source=WCOR,sales,"(8.937077, 45.610855)",20025
+220,220,G. VILLA S.R.L.,,www.villa-fcagroup.it/concessionario/abarth?locationCode=00001859&bannerid=DL&source=WCOR,sales,"(9.254339, 45.60064)",20052
+221,221,PENATI AUTO S.P.A.,,www.penati-fcagroup.it/concessionario/abarth?locationCode=00004613&bannerid=DL&source=WCOR,sales,"(9.321709, 45.612446)",20043
+222,222,SIMOCAR S.R.L.,, ,sales,"(9.16483, 45.56899)",20037
+223,223,AUTOGHINZANI S.R.L.,,www.autoghinzani-fcagroup.it/concessionario/abarth?locationCode=00002755&bannerid=DL&source=WCOR,sales,"(9.468328, 45.688347)",24033
+224,224,G. Villa S.r.l.,,www.villa-fcagroup.it/concessionario/abarth?locationCode=00001861&bannerid=DL&source=WCOR,sales,"(9.316, 45.579892)",20052
+225,225,Fassina S.p.A.,,www.fassina-fcagroup.it/concessionario/abarth?locationCode=00006351&bannerid=DL&source=WCOR,sales,"(9.118144, 45.520616)",20157
+226,226,Ren Car S.r.l.,,www.rencar-fcagroup.it/concessionario/abarth?locationCode=00002414&bannerid=DL&source=WCOR,sales,"(8.550569, 45.948891)",28923
+227,227,STELLANTIS &YOU MILANO,,www.motorvillagearese.it/concessionario/abarth?locationCode=00010041&bannerid=DL&source=WCOR,sales,"(9.150759, 45.484594)",20149
+228,228,Astra S.p.A.,,www.astra-fcagroup.it/concessionario/abarth?locationCode=00000215&bannerid=DL&source=WCOR,sales,"(8.561643, 45.749794)",28041
+229,229,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005938&bannerid=DL&source=WCOR,sales,"(9.094793, 45.481844)",20153
+230,230,Gruppo Emmeciauto - Contiauto,,www.gruppoemmeciauto-fcagroup.it/concessionario/abarth?locationCode=00000565&bannerid=DL&source=WCOR,sales,"(9.602322, 45.686365)",24035
+231,231,Garavaglia Auto,,www.garavaglia-fcagroup.it/concessionario/abarth?locationCode=00006158&bannerid=DL&source=WCOR,sales,"(8.858473, 45.514344)",20010
+232,232,Denicar S.p.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005933&bannerid=DL&source=WCOR,sales,"(9.119037, 45.448956)",20152
+233,233,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00008187&bannerid=DL&source=WCOR,sales,"(9.644124, 45.674943)",24127
+234,234,Chioda S.r.l.,,www.chioda-fcagroup.it/concessionario/abarth?locationCode=00001664&bannerid=DL&source=WCOR,sales,"(9.412327, 45.496858)",20066
+235,235,S.T.A.V. S.P.A.,,www.stav-fcagroup.it/concessionario/abarth?locationCode=00000453&bannerid=DL&source=WCOR,sales,"(8.879012, 45.454233)",20013
+236,236,DENICAR S.P.A.,, ,sales,"(9.079883, 45.420187)",20090
+237,237,BRESCIANI S.R.L.,, ,sales,"(9.6285, 45.6037)",24059
+238,238,MOCAUTOGROUP S.R.L.,,www.mocauto-fcagroup.it/concessionario/abarth?locationCode=00008426&bannerid=DL&source=WCOR,sales,"(9.175952, 45.414302)",20142
+239,239,GRUPPO EMMECIAUTO S.P.A. - MESSINA& C. S.R.L.,,www.gruppoemmeciauto-fcagroup.it/concessionario/abarth?locationCode=00000566&bannerid=DL&source=WCOR,sales,"(9.823467, 45.788198)",24025
+240,240,AUTOGHINZANI S.R.L.,,www.autoghinzani-fcagroup.it/concessionario/abarth?locationCode=00007701&bannerid=DL&source=WCOR,sales,"(9.797358, 45.678648)",24060
+241,241,MASSIRONI S.R.L.,,www.massironi-fcagroup.it/concessionario/abarth?locationCode=00001872&bannerid=DL&source=WCOR,sales,"(9.32164, 45.36358)",20077
+242,242,ASTRA S.P.A.,,www.astra-fcagroup.it/concessionario/abarth?locationCode=00007396&bannerid=DL&source=WCOR,sales,"(8.568755, 45.450705)",28060
+243,243,Stav S.p.A.,,www.stav-fcagroup.it/concessionario/abarth?locationCode=00000455&bannerid=DL&source=WCOR,sales,"(8.848962, 45.298492)",27029
+244,244,Lazzari,,www.lazzari-fcagroup.it/concessionario/abarth?locationCode=00005786&bannerid=DL&source=WCOR,sales,"(9.458235, 45.323485)",26900
+245,245,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001567&bannerid=DL&source=WCOR,sales,"(9.626082, 45.367351)",26010
+246,246,L'Auto S.r.l.,,www.lauto-fcagroup.it/concessionario/abarth?locationCode=00001559&bannerid=DL&source=WCOR,sales,"(9.910662, 46.170805)",23020
+247,247,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001567&bannerid=DL&source=WCOR,sales,"(9.626082, 45.367351)",26010
+248,248,LAZZARI S.P.A.,,www.lazzari-fcagroup.it/concessionario/abarth?locationCode=00005783&bannerid=DL&source=WCOR,sales,"(9.673888, 45.150789)",26845
+249,249,Lazzari,,www.lazzari-fcagroup.it/concessionario/abarth?locationCode=00005786&bannerid=DL&source=WCOR,sales,"(9.458235, 45.323485)",26900
+250,250,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001578&bannerid=DL&source=WCOR,sales,"(9.924302, 45.401931)",25034
+251,251,GRUPPO BOSSONI S.P.A.,, ,sales,"(9.981407, 45.149088)",26100
+252,252,Programma Auto S.p.A.,, ,sales,"(9.706045, 45.035124)",29122
+253,253,PROGRAMMA AUTO S.P.A.,,www.programmauto-fcagroup.it/concessionario/abarth?locationCode=00002728&bannerid=DL&source=WCOR,sales,"(9.73535, 45.0306)",29122
+254,254,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00008165&bannerid=DL&source=WCOR,sales,"(10.005793, 45.146027)",26100
+255,255,MASSIRONI S.R.L.,,www.massironi-fcagroup.it/concessionario/abarth?locationCode=00001872&bannerid=DL&source=WCOR,sales,"(9.32164, 45.36358)",20077
+256,256,Chioda S.r.l.,,www.chioda-fcagroup.it/concessionario/abarth?locationCode=00001664&bannerid=DL&source=WCOR,sales,"(9.412327, 45.496858)",20066
+257,257,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001575&bannerid=DL&source=WCOR,sales,"(10.135759, 45.344952)",25025
+258,258,BRESCIANI S.R.L.,, ,sales,"(9.6285, 45.6037)",24059
+259,259,MOCAUTOGROUP S.R.L.,,www.mocauto-fcagroup.it/concessionario/abarth?locationCode=00008426&bannerid=DL&source=WCOR,sales,"(9.175952, 45.414302)",20142
+260,260,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00008187&bannerid=DL&source=WCOR,sales,"(9.644124, 45.674943)",24127
+261,261,G. Villa S.r.l.,,www.villa-fcagroup.it/concessionario/abarth?locationCode=00001861&bannerid=DL&source=WCOR,sales,"(9.316, 45.579892)",20052
+262,262,AUTOGHINZANI S.R.L.,,www.autoghinzani-fcagroup.it/concessionario/abarth?locationCode=00007701&bannerid=DL&source=WCOR,sales,"(9.797358, 45.678648)",24060
+263,263,Gruppo Emmeciauto - Contiauto,,www.gruppoemmeciauto-fcagroup.it/concessionario/abarth?locationCode=00000565&bannerid=DL&source=WCOR,sales,"(9.602322, 45.686365)",24035
+264,264,Gruppo Bossoni S.p.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001568&bannerid=DL&source=WCOR,sales,"(10.162194, 45.546848)",25125
+265,265,PENATI AUTO S.P.A.,,www.penati-fcagroup.it/concessionario/abarth?locationCode=00004613&bannerid=DL&source=WCOR,sales,"(9.321709, 45.612446)",20043
+266,266,AUTOINGROSS TORINO SPA,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00010222&bannerid=DL&source=WCOR,sales,"(9.12008, 45.141575)",27028
+267,267,STELLANTIS &YOU MILANO,,www.motorvillagearese.it/concessionario/abarth?locationCode=00010041&bannerid=DL&source=WCOR,sales,"(9.150759, 45.484594)",20149
+268,268,AUTOGHINZANI S.R.L.,,www.autoghinzani-fcagroup.it/concessionario/abarth?locationCode=00002755&bannerid=DL&source=WCOR,sales,"(9.468328, 45.688347)",24033
+269,269,Denicar S.p.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005933&bannerid=DL&source=WCOR,sales,"(9.119037, 45.448956)",20152
+270,270,G. VILLA S.R.L.,,www.villa-fcagroup.it/concessionario/abarth?locationCode=00001859&bannerid=DL&source=WCOR,sales,"(9.254339, 45.60064)",20052
+271,271,DENICAR S.P.A.,, ,sales,"(9.079883, 45.420187)",20090
+272,272,PENATI AUTO S.P.A.,, ,sales,"(9.401015, 45.690085)",23870
+273,273,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005938&bannerid=DL&source=WCOR,sales,"(9.094793, 45.481844)",20153
+274,274,SIMOCAR S.R.L.,, ,sales,"(9.16483, 45.56899)",20037
+275,275,Fassina S.p.A.,,www.fassina-fcagroup.it/concessionario/abarth?locationCode=00006351&bannerid=DL&source=WCOR,sales,"(9.118144, 45.520616)",20157
+276,276,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00006412&bannerid=DL&source=WCOR,sales,"(10.306991, 45.513137)",25086
+277,277,Penati Auto S.p.A.,,www.penati-fcagroup.it/concessionario/abarth?locationCode=00004614&bannerid=DL&source=WCOR,sales,"(9.312783, 45.701741)",23880
+278,278,GRUPPO EMMECIAUTO S.P.A. - MESSINA& C. S.R.L.,,www.gruppoemmeciauto-fcagroup.it/concessionario/abarth?locationCode=00000566&bannerid=DL&source=WCOR,sales,"(9.823467, 45.788198)",24025
+279,279,AUTO ZATTI S.R.L.,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00008170&bannerid=DL&source=WCOR,sales,"(10.111978, 44.85338)",43012
+280,280,Danilo Degiorgi,,www.degiorgi-fcagroup.it/concessionario/abarth?locationCode=00001167&bannerid=DL&source=WCOR,sales,"(9.057335, 44.996813)",27058
+281,281,AUTOTORINO S.P.A.,,www.autotorino-fcagroup.it/concessionario/abarth?locationCode=00007567&bannerid=DL&source=WCOR,sales,"(9.041046, 45.614012)",21047
+282,282,SERRATORE S.P.A. - SERAUTO,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00007231&bannerid=DL&source=WCOR,sales,"(9.410331, 45.838582)",23900
+283,283,Stav S.p.A.,,www.stav-fcagroup.it/concessionario/abarth?locationCode=00000455&bannerid=DL&source=WCOR,sales,"(8.848962, 45.298492)",27029
+284,284,SERRATORE S.P.A. - SERAUTO,, ,sales,"(9.141545, 45.736431)",22063
+285,285,S.T.A.V. S.P.A.,,www.stav-fcagroup.it/concessionario/abarth?locationCode=00000453&bannerid=DL&source=WCOR,sales,"(8.879012, 45.454233)",20013
+286,286,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001573&bannerid=DL&source=WCOR,sales,"(10.520924, 45.449339)",25015
+287,287,Gruppo Serratore,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00003521&bannerid=DL&source=WCOR,sales,"(9.237148, 45.802863)",22036
+288,288,Autoalberta S.r.l.,,www.autoalberta-fcagroup.it/concessionario/abarth?locationCode=00003263&bannerid=DL&source=WCOR,sales,"(9.038126, 45.684819)",22074
+289,289,Auto Zatti,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00002281&bannerid=DL&source=WCOR,sales,"(10.288466, 44.80957)",43121
+290,290,SANTINO CERIANI S.R.L.,,www.ceriani-fcagroup.it/concessionario/abarth?locationCode=00005465&bannerid=DL&source=WCOR,sales,"(8.937077, 45.610855)",20025
+291,291,Garavaglia Auto,,www.garavaglia-fcagroup.it/concessionario/abarth?locationCode=00006158&bannerid=DL&source=WCOR,sales,"(8.858473, 45.514344)",20010
+292,292,SERRATORE S.P.A. - SERAUTO,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00003523&bannerid=DL&source=WCOR,sales,"(9.066516, 45.776898)",22070
+293,293,GRUPPO EMMECIAUTO S.P.A. - MESSINA& C. S.R.L.,,www.gruppoemmeciauto-fcagroup.it/concessionario/abarth?locationCode=00000566&bannerid=DL&source=WCOR,sales,"(9.823467, 45.788198)",24025
+294,294,Gruppo Emmeciauto - Contiauto,,www.gruppoemmeciauto-fcagroup.it/concessionario/abarth?locationCode=00000565&bannerid=DL&source=WCOR,sales,"(9.602322, 45.686365)",24035
+295,295,SERRATORE S.P.A. - SERAUTO,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00007231&bannerid=DL&source=WCOR,sales,"(9.410331, 45.838582)",23900
+296,296,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00008187&bannerid=DL&source=WCOR,sales,"(9.644124, 45.674943)",24127
+297,297,AUTOGHINZANI S.R.L.,,www.autoghinzani-fcagroup.it/concessionario/abarth?locationCode=00007701&bannerid=DL&source=WCOR,sales,"(9.797358, 45.678648)",24060
+298,298,AUTOGHINZANI S.R.L.,,www.autoghinzani-fcagroup.it/concessionario/abarth?locationCode=00002755&bannerid=DL&source=WCOR,sales,"(9.468328, 45.688347)",24033
+299,299,BRESCIANI S.R.L.,, ,sales,"(9.6285, 45.6037)",24059
+300,300,PENATI AUTO S.P.A.,, ,sales,"(9.401015, 45.690085)",23870
+301,301,Penati Auto S.p.A.,,www.penati-fcagroup.it/concessionario/abarth?locationCode=00004614&bannerid=DL&source=WCOR,sales,"(9.312783, 45.701741)",23880
+302,302,L'Auto S.r.l.,,www.lauto-fcagroup.it/concessionario/abarth?locationCode=00001559&bannerid=DL&source=WCOR,sales,"(9.910662, 46.170805)",23020
+303,303,Gruppo Serratore,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00003521&bannerid=DL&source=WCOR,sales,"(9.237148, 45.802863)",22036
+304,304,PENATI AUTO S.P.A.,,www.penati-fcagroup.it/concessionario/abarth?locationCode=00004613&bannerid=DL&source=WCOR,sales,"(9.321709, 45.612446)",20043
+305,305,G. Villa S.r.l.,,www.villa-fcagroup.it/concessionario/abarth?locationCode=00001861&bannerid=DL&source=WCOR,sales,"(9.316, 45.579892)",20052
+306,306,SERRATORE S.P.A. - SERAUTO,, ,sales,"(9.141545, 45.736431)",22063
+307,307,G. VILLA S.R.L.,,www.villa-fcagroup.it/concessionario/abarth?locationCode=00001859&bannerid=DL&source=WCOR,sales,"(9.254339, 45.60064)",20052
+308,308,Chioda S.r.l.,,www.chioda-fcagroup.it/concessionario/abarth?locationCode=00001664&bannerid=DL&source=WCOR,sales,"(9.412327, 45.496858)",20066
+309,309,SERRATORE S.P.A. - SERAUTO,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00003523&bannerid=DL&source=WCOR,sales,"(9.066516, 45.776898)",22070
+310,310,Gruppo Bossoni S.p.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001568&bannerid=DL&source=WCOR,sales,"(10.162194, 45.546848)",25125
+311,311,SIMOCAR S.R.L.,, ,sales,"(9.16483, 45.56899)",20037
+312,312,Autoalberta S.r.l.,,www.autoalberta-fcagroup.it/concessionario/abarth?locationCode=00003263&bannerid=DL&source=WCOR,sales,"(9.038126, 45.684819)",22074
+313,313,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001578&bannerid=DL&source=WCOR,sales,"(9.924302, 45.401931)",25034
+314,314,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001567&bannerid=DL&source=WCOR,sales,"(9.626082, 45.367351)",26010
+315,315,AUTOTORINO S.P.A.,,www.autotorino-fcagroup.it/concessionario/abarth?locationCode=00007567&bannerid=DL&source=WCOR,sales,"(9.041046, 45.614012)",21047
+316,316,Fassina S.p.A.,,www.fassina-fcagroup.it/concessionario/abarth?locationCode=00006351&bannerid=DL&source=WCOR,sales,"(9.118144, 45.520616)",20157
+317,317,STELLANTIS &YOU MILANO,,www.motorvillagearese.it/concessionario/abarth?locationCode=00010041&bannerid=DL&source=WCOR,sales,"(9.150759, 45.484594)",20149
+318,318,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00006412&bannerid=DL&source=WCOR,sales,"(10.306991, 45.513137)",25086
+319,319,MASSIRONI S.R.L.,,www.massironi-fcagroup.it/concessionario/abarth?locationCode=00001872&bannerid=DL&source=WCOR,sales,"(9.32164, 45.36358)",20077
+320,320,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005938&bannerid=DL&source=WCOR,sales,"(9.094793, 45.481844)",20153
+321,321,Lazzari,,www.lazzari-fcagroup.it/concessionario/abarth?locationCode=00005786&bannerid=DL&source=WCOR,sales,"(9.458235, 45.323485)",26900
+322,322,Denicar S.p.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00005933&bannerid=DL&source=WCOR,sales,"(9.119037, 45.448956)",20152
+323,323,MOCAUTOGROUP S.R.L.,,www.mocauto-fcagroup.it/concessionario/abarth?locationCode=00008426&bannerid=DL&source=WCOR,sales,"(9.175952, 45.414302)",20142
+324,324,SANTINO CERIANI S.R.L.,,www.ceriani-fcagroup.it/concessionario/abarth?locationCode=00005465&bannerid=DL&source=WCOR,sales,"(8.937077, 45.610855)",20025
+325,325,MARELLI & POZZI S.P.A.,,www.marellipozzi-fcagroup.it/concessionario/abarth?locationCode=00003354&bannerid=DL&source=WCOR,sales,"(8.842779, 45.799899)",21100
+326,326,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001575&bannerid=DL&source=WCOR,sales,"(10.135759, 45.344952)",25025
+327,327,DENICAR S.P.A.,, ,sales,"(9.079883, 45.420187)",20090
+328,328,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001575&bannerid=DL&source=WCOR,sales,"(10.135759, 45.344952)",25025
+329,329,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001573&bannerid=DL&source=WCOR,sales,"(10.520924, 45.449339)",25015
+330,330,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00006412&bannerid=DL&source=WCOR,sales,"(10.306991, 45.513137)",25086
+331,331,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00008165&bannerid=DL&source=WCOR,sales,"(10.005793, 45.146027)",26100
+332,332,GRUPPO BOSSONI S.P.A.,, ,sales,"(9.981407, 45.149088)",26100
+333,333,Gruppo Bossoni S.p.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001568&bannerid=DL&source=WCOR,sales,"(10.162194, 45.546848)",25125
+334,334,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001578&bannerid=DL&source=WCOR,sales,"(9.924302, 45.401931)",25034
+335,335,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00007289&bannerid=DL&source=WCOR,sales,"(10.789933, 45.18944)",46047
+336,336,GRUPPO BOSSONI S.P.A.,, ,sales,"(10.789933, 45.18944)",46047
+337,337,AUTO ZATTI S.R.L.,, ,sales,"(10.481246, 44.863769)",42040
+338,338,AUTO ZATTI S.R.L.,, ,sales,"(10.652905, 44.914571)",42016
+339,339,AUTO ZATTI S.R.L.,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00008170&bannerid=DL&source=WCOR,sales,"(10.111978, 44.85338)",43012
+340,340,LAZZARI S.P.A.,,www.lazzari-fcagroup.it/concessionario/abarth?locationCode=00005783&bannerid=DL&source=WCOR,sales,"(9.673888, 45.150789)",26845
+341,341,PROGRAMMA AUTO S.P.A.,,www.programmauto-fcagroup.it/concessionario/abarth?locationCode=00002728&bannerid=DL&source=WCOR,sales,"(9.73535, 45.0306)",29122
+342,342,Auto Zatti,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00002281&bannerid=DL&source=WCOR,sales,"(10.288466, 44.80957)",43121
+343,343,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001567&bannerid=DL&source=WCOR,sales,"(9.626082, 45.367351)",26010
+344,344,Programma Auto S.p.A.,, ,sales,"(9.706045, 45.035124)",29122
+345,345,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00008368&bannerid=DL&source=WCOR,sales,"(10.973218, 45.402267)",37135
+346,346,AUTOTEAM 9 S.R.L.,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00008264&bannerid=DL&source=WCOR,sales,"(10.960875, 45.445028)",37138
+347,347,AUTOGHINZANI S.R.L.,,www.autoghinzani-fcagroup.it/concessionario/abarth?locationCode=00007701&bannerid=DL&source=WCOR,sales,"(9.797358, 45.678648)",24060
+348,348,BRESCIANI S.R.L.,, ,sales,"(9.6285, 45.6037)",24059
+349,349,Lazzari,,www.lazzari-fcagroup.it/concessionario/abarth?locationCode=00005786&bannerid=DL&source=WCOR,sales,"(9.458235, 45.323485)",26900
+350,350,AUTOSTILE S.P.A.,,www.autostile-fcagroup.it/concessionario/abarth?locationCode=00002632&bannerid=DL&source=WCOR,sales,"(10.579743, 44.717633)",42100
+351,351,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00008187&bannerid=DL&source=WCOR,sales,"(9.644124, 45.674943)",24127
+352,352,GRUPPO EMMECIAUTO S.P.A. - MESSINA& C. S.R.L.,,www.gruppoemmeciauto-fcagroup.it/concessionario/abarth?locationCode=00000566&bannerid=DL&source=WCOR,sales,"(9.823467, 45.788198)",24025
+353,353,Gruppo Emmeciauto - Contiauto,,www.gruppoemmeciauto-fcagroup.it/concessionario/abarth?locationCode=00000565&bannerid=DL&source=WCOR,sales,"(9.602322, 45.686365)",24035
+354,354,F.LLI  BONACINI S.P.A.,,www.bonacini-fcagroup.it/concessionario/abarth?locationCode=00007989&bannerid=DL&source=WCOR,sales,"(10.880838, 44.771409)",41012
+355,355,Chioda S.r.l.,,www.chioda-fcagroup.it/concessionario/abarth?locationCode=00001664&bannerid=DL&source=WCOR,sales,"(9.412327, 45.496858)",20066
+356,356,AUTOTEAM 9 SRL,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00010259&bannerid=DL&source=WCOR,sales,"(11.244281, 45.208727)",37035
+357,357,GRUPPO EMMECIAUTO S.P.A. - MESSINA& C. S.R.L.,,www.gruppoemmeciauto-fcagroup.it/concessionario/abarth?locationCode=00000566&bannerid=DL&source=WCOR,sales,"(9.823467, 45.788198)",24025
+358,358,Gruppo Bossoni S.p.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001568&bannerid=DL&source=WCOR,sales,"(10.162194, 45.546848)",25125
+359,359,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00006412&bannerid=DL&source=WCOR,sales,"(10.306991, 45.513137)",25086
+360,360,L'Auto S.r.l.,,www.lauto-fcagroup.it/concessionario/abarth?locationCode=00001559&bannerid=DL&source=WCOR,sales,"(9.910662, 46.170805)",23020
+361,361,AUTOGHINZANI S.R.L.,,www.autoghinzani-fcagroup.it/concessionario/abarth?locationCode=00007701&bannerid=DL&source=WCOR,sales,"(9.797358, 45.678648)",24060
+362,362,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001573&bannerid=DL&source=WCOR,sales,"(10.520924, 45.449339)",25015
+363,363,DENICAR S.P.A.,,www.denicar-fcagroup.it/concessionario/abarth?locationCode=00008187&bannerid=DL&source=WCOR,sales,"(9.644124, 45.674943)",24127
+364,364,Gruppo Emmeciauto - Contiauto,,www.gruppoemmeciauto-fcagroup.it/concessionario/abarth?locationCode=00000565&bannerid=DL&source=WCOR,sales,"(9.602322, 45.686365)",24035
+365,365,BRESCIANI S.R.L.,, ,sales,"(9.6285, 45.6037)",24059
+366,366,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001578&bannerid=DL&source=WCOR,sales,"(9.924302, 45.401931)",25034
+367,367,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001575&bannerid=DL&source=WCOR,sales,"(10.135759, 45.344952)",25025
+368,368,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00008050&bannerid=DL&source=WCOR,sales,"(11.099097, 46.118232)",38121
+369,369,AUTOGHINZANI S.R.L.,,www.autoghinzani-fcagroup.it/concessionario/abarth?locationCode=00002755&bannerid=DL&source=WCOR,sales,"(9.468328, 45.688347)",24033
+370,370,SERRATORE S.P.A. - SERAUTO,,www.serratore-fcagroup.it/concessionario/abarth?locationCode=00007231&bannerid=DL&source=WCOR,sales,"(9.410331, 45.838582)",23900
+371,371,AUTOTEAM 9 S.R.L.,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00008264&bannerid=DL&source=WCOR,sales,"(10.960875, 45.445028)",37138
+372,372,PENATI AUTO S.P.A.,, ,sales,"(9.401015, 45.690085)",23870
+373,373,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00008368&bannerid=DL&source=WCOR,sales,"(10.973218, 45.402267)",37135
+374,374,L'Auto S.r.l.,,www.lauto-fcagroup.it/concessionario/abarth?locationCode=00001559&bannerid=DL&source=WCOR,sales,"(9.910662, 46.170805)",23020
+375,375,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00008050&bannerid=DL&source=WCOR,sales,"(11.099097, 46.118232)",38121
+376,376,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00008050&bannerid=DL&source=WCOR,sales,"(11.099097, 46.118232)",38121
+377,377,BARCHETTI1 S.P.A.,,www.barchetti-fcagroup.it/concessionario/abarth?locationCode=00008324&bannerid=DL&source=WCOR,sales,"(11.332371, 46.478213)",39100
+378,378,Ceccato Automobili,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00001398&bannerid=DL&source=WCOR,sales,"(11.387363, 45.717592)",36015
+379,379,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006895&bannerid=DL&source=WCOR,sales,"(11.48338, 45.693449)",36016
+380,380,BARCHETTI1 S.P.A.,,www.barchetti-fcagroup.it/concessionario/abarth?locationCode=00008324&bannerid=DL&source=WCOR,sales,"(11.332371, 46.478213)",39100
+381,381,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00008050&bannerid=DL&source=WCOR,sales,"(11.099097, 46.118232)",38121
+382,382,De Bona Motors,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00001445&bannerid=DL&source=WCOR,sales,"(12.24304, 46.164659)",32100
+383,383,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00001396&bannerid=DL&source=WCOR,sales,"(11.747594, 45.752486)",36061
+384,384,Ceccato Automobili,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00001398&bannerid=DL&source=WCOR,sales,"(11.387363, 45.717592)",36015
+385,385,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006895&bannerid=DL&source=WCOR,sales,"(11.48338, 45.693449)",36016
+386,386,AUTOSILE S.R.L.,,www.autosile-fcagroup.it/concessionario/abarth?locationCode=00008288&bannerid=DL&source=WCOR,sales,"(12.056714, 45.783477)",31044
+387,387,DE BONA S.R.L.,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00001455&bannerid=DL&source=WCOR,sales,"(12.267325, 45.864299)",31058
+388,388,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006613&bannerid=DL&source=WCOR,sales,"(11.959977, 45.685272)",31033
+389,389,BARCHETTI1 S.P.A.,,www.barchetti-fcagroup.it/concessionario/abarth?locationCode=00008324&bannerid=DL&source=WCOR,sales,"(11.332371, 46.478213)",39100
+390,390,Zancauto S.r.l.,,www.zancauto-srl.it/concessionario/abarth?locationCode=00003606&bannerid=DL&source=WCOR,sales,"(11.380042, 45.326084)",37040
+391,391,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00008368&bannerid=DL&source=WCOR,sales,"(10.973218, 45.402267)",37135
+392,392,AUTOTEAM 9 SRL,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00010259&bannerid=DL&source=WCOR,sales,"(11.244281, 45.208727)",37035
+393,393,AUTOTEAM 9 S.R.L.,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00008264&bannerid=DL&source=WCOR,sales,"(10.960875, 45.445028)",37138
+394,394,DE BONA S.R.L.,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00008073&bannerid=DL&source=WCOR,sales,"(11.510266, 45.526001)",36100
+395,395,BI-ELLE AUTO S.P.A.,, ,sales,"(11.619053, 45.225092)",35045
+396,396,Ceccato Automobili,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00001398&bannerid=DL&source=WCOR,sales,"(11.387363, 45.717592)",36015
+397,397,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006895&bannerid=DL&source=WCOR,sales,"(11.48338, 45.693449)",36016
+398,398,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00007289&bannerid=DL&source=WCOR,sales,"(10.789933, 45.18944)",46047
+399,399,GRUPPO BOSSONI S.P.A.,, ,sales,"(10.789933, 45.18944)",46047
+400,400,Bi-Elle Auto S.p.A.,, ,sales,"(11.757195, 45.246926)",35043
+401,401,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006615&bannerid=DL&source=WCOR,sales,"(11.830037, 45.345307)",35020
+402,402,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006400&bannerid=DL&source=WCOR,sales,"(11.895245, 45.411344)",35131
+403,403,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001573&bannerid=DL&source=WCOR,sales,"(10.520924, 45.449339)",25015
+404,404,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00001396&bannerid=DL&source=WCOR,sales,"(11.747594, 45.752486)",36061
+405,405,BI-ELLE AUTO S.P.A.,,www.gruppobielle.it/concessionario/abarth?locationCode=00000053&bannerid=DL&source=WCOR,sales,"(11.968757, 45.425313)",35010
+406,406,AUTOTEAM 9 S.R.L.,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00008015&bannerid=DL&source=WCOR,sales,"(11.779818, 45.03414)",45100
+407,407,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006613&bannerid=DL&source=WCOR,sales,"(11.959977, 45.685272)",31033
+408,408,CAMPELLO S.P.A. - CAMPELLO MOTORS,,www.campellomotors-fcagroup.it/concessionario/abarth?locationCode=00004567&bannerid=DL&source=WCOR,sales,"(12.075463, 45.497144)",30035
+409,409,AUTO ZATTI S.R.L.,, ,sales,"(10.652905, 44.914571)",42016
+410,410,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00006412&bannerid=DL&source=WCOR,sales,"(10.306991, 45.513137)",25086
+411,411,F.LLI  BONACINI S.P.A.,,www.bonacini-fcagroup.it/concessionario/abarth?locationCode=00007989&bannerid=DL&source=WCOR,sales,"(10.880838, 44.771409)",41012
+412,412,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006615&bannerid=DL&source=WCOR,sales,"(11.830037, 45.345307)",35020
+413,413,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006400&bannerid=DL&source=WCOR,sales,"(11.895245, 45.411344)",35131
+414,414,BI-ELLE AUTO S.P.A.,,www.gruppobielle.it/concessionario/abarth?locationCode=00000053&bannerid=DL&source=WCOR,sales,"(11.968757, 45.425313)",35010
+415,415,Bi-Elle Auto S.p.A.,, ,sales,"(11.757195, 45.246926)",35043
+416,416,CAMPELLO S.P.A. - CAMPELLO MOTORS,,www.campellomotors-fcagroup.it/concessionario/abarth?locationCode=00004567&bannerid=DL&source=WCOR,sales,"(12.075463, 45.497144)",30035
+417,417,BI-ELLE AUTO S.P.A.,, ,sales,"(11.619053, 45.225092)",35045
+418,418,DE BONA S.R.L.,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00008073&bannerid=DL&source=WCOR,sales,"(11.510266, 45.526001)",36100
+419,419,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006613&bannerid=DL&source=WCOR,sales,"(11.959977, 45.685272)",31033
+420,420,CAMPELLO S.P.A. - CAMPELLO MOTORS,,www.campellomotors-fcagroup.it/concessionario/abarth?locationCode=00008167&bannerid=DL&source=WCOR,sales,"(12.237271, 45.512952)",30174
+421,421,Zancauto S.r.l.,,www.zancauto-srl.it/concessionario/abarth?locationCode=00003606&bannerid=DL&source=WCOR,sales,"(11.380042, 45.326084)",37040
+422,422,AUTOTEAM 9 S.R.L.,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00008015&bannerid=DL&source=WCOR,sales,"(11.779818, 45.03414)",45100
+423,423,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00001396&bannerid=DL&source=WCOR,sales,"(11.747594, 45.752486)",36061
+424,424,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006895&bannerid=DL&source=WCOR,sales,"(11.48338, 45.693449)",36016
+425,425,AUTOSILE S.R.L.,,www.autosile-fcagroup.it/concessionario/abarth?locationCode=00008288&bannerid=DL&source=WCOR,sales,"(12.056714, 45.783477)",31044
+426,426,AUTOTEAM 9 SRL,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00010259&bannerid=DL&source=WCOR,sales,"(11.244281, 45.208727)",37035
+427,427,Ceccato Automobili,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00001398&bannerid=DL&source=WCOR,sales,"(11.387363, 45.717592)",36015
+428,428,AUTOSILE S.R.L.,,www.autosile-fcagroup.it/concessionario/abarth?locationCode=00005082&bannerid=DL&source=WCOR,sales,"(12.252499, 45.729009)",31020
+429,429,DE BONA S.R.L.,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00001455&bannerid=DL&source=WCOR,sales,"(12.267325, 45.864299)",31058
+430,430,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00008368&bannerid=DL&source=WCOR,sales,"(10.973218, 45.402267)",37135
+431,431,AUTOTEAM 9 S.R.L.,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00008264&bannerid=DL&source=WCOR,sales,"(10.960875, 45.445028)",37138
+432,432,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00001396&bannerid=DL&source=WCOR,sales,"(11.747594, 45.752486)",36061
+433,433,AUTOSILE S.R.L.,,www.autosile-fcagroup.it/concessionario/abarth?locationCode=00008288&bannerid=DL&source=WCOR,sales,"(12.056714, 45.783477)",31044
+434,434,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006613&bannerid=DL&source=WCOR,sales,"(11.959977, 45.685272)",31033
+435,435,DE BONA S.R.L.,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00001455&bannerid=DL&source=WCOR,sales,"(12.267325, 45.864299)",31058
+436,436,De Bona Motors,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00001445&bannerid=DL&source=WCOR,sales,"(12.24304, 46.164659)",32100
+437,437,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006895&bannerid=DL&source=WCOR,sales,"(11.48338, 45.693449)",36016
+438,438,AUTOSILE S.R.L.,,www.autosile-fcagroup.it/concessionario/abarth?locationCode=00005082&bannerid=DL&source=WCOR,sales,"(12.252499, 45.729009)",31020
+439,439,Ceccato Automobili,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00001398&bannerid=DL&source=WCOR,sales,"(11.387363, 45.717592)",36015
+440,440,DE BONA S.R.L.,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00008073&bannerid=DL&source=WCOR,sales,"(11.510266, 45.526001)",36100
+441,441,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00008050&bannerid=DL&source=WCOR,sales,"(11.099097, 46.118232)",38121
+442,442,CAMPELLO S.P.A. - CAMPELLO MOTORS,,www.campellomotors-fcagroup.it/concessionario/abarth?locationCode=00004567&bannerid=DL&source=WCOR,sales,"(12.075463, 45.497144)",30035
+443,443,CAMPELLO S.P.A. - CAMPELLO MOTORS,,www.campellomotors-fcagroup.it/concessionario/abarth?locationCode=00008167&bannerid=DL&source=WCOR,sales,"(12.237271, 45.512952)",30174
+444,444,Sina S.p.A.,,www.sina-fcagroup.it/concessionario/abarth?locationCode=00000597&bannerid=DL&source=WCOR,sales,"(12.642976, 45.973309)",33170
+445,445,BI-ELLE AUTO S.P.A.,,www.gruppobielle.it/concessionario/abarth?locationCode=00000053&bannerid=DL&source=WCOR,sales,"(11.968757, 45.425313)",35010
+446,446,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006400&bannerid=DL&source=WCOR,sales,"(11.895245, 45.411344)",35131
+447,447,BARCHETTI1 S.P.A.,,www.barchetti-fcagroup.it/concessionario/abarth?locationCode=00008324&bannerid=DL&source=WCOR,sales,"(11.332371, 46.478213)",39100
+448,448,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006615&bannerid=DL&source=WCOR,sales,"(11.830037, 45.345307)",35020
+449,449,Sina S.p.A.,,www.sina-fcagroup.it/concessionario/abarth?locationCode=00000597&bannerid=DL&source=WCOR,sales,"(12.642976, 45.973309)",33170
+450,450,DE BONA S.R.L.,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00001455&bannerid=DL&source=WCOR,sales,"(12.267325, 45.864299)",31058
+451,451,De Bona Motors,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00001445&bannerid=DL&source=WCOR,sales,"(12.24304, 46.164659)",32100
+452,452,AUTOSILE S.R.L.,,www.autosile-fcagroup.it/concessionario/abarth?locationCode=00005082&bannerid=DL&source=WCOR,sales,"(12.252499, 45.729009)",31020
+453,453,AUTOSILE S.R.L.,,www.autosile-fcagroup.it/concessionario/abarth?locationCode=00008288&bannerid=DL&source=WCOR,sales,"(12.056714, 45.783477)",31044
+454,454,SINA S.P.A. - SOCIETA' INDUSTRIALEAUTOVEICOLI,,www.sina-fcagroup.it/concessionario/abarth?locationCode=00000598&bannerid=DL&source=WCOR,sales,"(12.826214, 45.78982)",30026
+455,455,SINA S.P.A. - SOCIETA' INDUSTRIALEAUTOVEICOLI,, ,sales,"(12.901588, 46.103892)",33097
+456,456,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00006613&bannerid=DL&source=WCOR,sales,"(11.959977, 45.685272)",31033
+457,457,CAMPELLO S.P.A. - CAMPELLO MOTORS,,www.campellomotors-fcagroup.it/concessionario/abarth?locationCode=00008167&bannerid=DL&source=WCOR,sales,"(12.237271, 45.512952)",30174
+458,458,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00001396&bannerid=DL&source=WCOR,sales,"(11.747594, 45.752486)",36061
+459,459,CAMPELLO S.P.A. - CAMPELLO MOTORS,,www.campellomotors-fcagroup.it/concessionario/abarth?locationCode=00004567&bannerid=DL&source=WCOR,sales,"(12.075463, 45.497144)",30035
+460,460,PRONTOAUTO S.P.A.,,www.prontoauto-fcagroup.it/concessionario/abarth?locationCode=00008435&bannerid=DL&source=WCOR,sales,"(13.22251, 46.10976)",33010
+461,461,Prontoauto,,www.prontoauto-fcagroup.it/concessionario/abarth?locationCode=00001082&bannerid=DL&source=WCOR,sales,"(13.18951, 46.20392)",33017
+462,462,BI-ELLE AUTO S.P.A.,,www.gruppobielle.it/concessionario/abarth?locationCode=00000053&bannerid=DL&source=WCOR,sales,"(11.968757, 45.425313)",35010
+463,463,PRONTOAUTO S.P.A.,,www.prontoauto-fcagroup.it/concessionario/abarth?locationCode=00006492&bannerid=DL&source=WCOR,sales,"(13.332652, 45.830523)",33052
+464,464,De Bona Motors,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00001445&bannerid=DL&source=WCOR,sales,"(12.24304, 46.164659)",32100
+465,465,SINA S.P.A. - SOCIETA' INDUSTRIALEAUTOVEICOLI,, ,sales,"(12.901588, 46.103892)",33097
+466,466,Sina S.p.A.,,www.sina-fcagroup.it/concessionario/abarth?locationCode=00000597&bannerid=DL&source=WCOR,sales,"(12.642976, 45.973309)",33170
+467,467,Prontoauto,,www.prontoauto-fcagroup.it/concessionario/abarth?locationCode=00001082&bannerid=DL&source=WCOR,sales,"(13.18951, 46.20392)",33017
+468,468,SINA S.P.A. - SOCIETA' INDUSTRIALEAUTOVEICOLI,, ,sales,"(12.901588, 46.103892)",33097
+469,469,Prontoauto,,www.prontoauto-fcagroup.it/concessionario/abarth?locationCode=00001082&bannerid=DL&source=WCOR,sales,"(13.18951, 46.20392)",33017
+470,470,PRONTOAUTO S.P.A.,,www.prontoauto-fcagroup.it/concessionario/abarth?locationCode=00008435&bannerid=DL&source=WCOR,sales,"(13.22251, 46.10976)",33010
+471,471,Sina S.p.A.,,www.sina-fcagroup.it/concessionario/abarth?locationCode=00000597&bannerid=DL&source=WCOR,sales,"(12.642976, 45.973309)",33170
+472,472,SINA S.P.A. - SOCIETA' INDUSTRIALEAUTOVEICOLI,,www.sina-fcagroup.it/concessionario/abarth?locationCode=00000598&bannerid=DL&source=WCOR,sales,"(12.826214, 45.78982)",30026
+473,473,PRONTOAUTO S.P.A.,,www.prontoauto-fcagroup.it/concessionario/abarth?locationCode=00006492&bannerid=DL&source=WCOR,sales,"(13.332652, 45.830523)",33052
+474,474,De Bona Motors,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00001445&bannerid=DL&source=WCOR,sales,"(12.24304, 46.164659)",32100
+475,475,DE BONA S.R.L.,,www.debona-fcagroup.it/concessionario/abarth?locationCode=00001455&bannerid=DL&source=WCOR,sales,"(12.267325, 45.864299)",31058
+476,476,AUTOSILE S.R.L.,,www.autosile-fcagroup.it/concessionario/abarth?locationCode=00005082&bannerid=DL&source=WCOR,sales,"(12.252499, 45.729009)",31020
+477,477,PRONTOAUTO S.P.A.,,www.prontoauto-fcagroup.it/concessionario/abarth?locationCode=00008435&bannerid=DL&source=WCOR,sales,"(13.22251, 46.10976)",33010
+478,478,Prontoauto,,www.prontoauto-fcagroup.it/concessionario/abarth?locationCode=00001082&bannerid=DL&source=WCOR,sales,"(13.18951, 46.20392)",33017
+479,479,PRONTOAUTO S.P.A.,,www.prontoauto-fcagroup.it/concessionario/abarth?locationCode=00006492&bannerid=DL&source=WCOR,sales,"(13.332652, 45.830523)",33052
+480,480,SINA S.P.A. - SOCIETA' INDUSTRIALEAUTOVEICOLI,, ,sales,"(12.901588, 46.103892)",33097
+481,481,BLIZ S.R.L.,,www.blizauto-fcagroup.it/concessionario/abarth?locationCode=00010177&bannerid=DL&source=WCOR,sales,"(13.820221, 45.612011)",34138
+482,482,SINA S.P.A. - SOCIETA' INDUSTRIALEAUTOVEICOLI,,www.sina-fcagroup.it/concessionario/abarth?locationCode=00000598&bannerid=DL&source=WCOR,sales,"(12.826214, 45.78982)",30026
+483,483,Sina S.p.A.,,www.sina-fcagroup.it/concessionario/abarth?locationCode=00000597&bannerid=DL&source=WCOR,sales,"(12.642976, 45.973309)",33170
+484,484,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00007818&bannerid=DL&source=WCOR,sales,"(8.945708, 44.400451)",16145
+485,485,SPAZIO S.P.A.,,www.spazio-fcagroup.it/concessionario/abarth?locationCode=00007806&bannerid=DL&source=WCOR,sales,"(8.858139, 44.418794)",16153
+486,486,Simcar S.r.l.,,www.simcar-fcagroup.it/concessionario/abarth?locationCode=00005671&bannerid=DL&source=WCOR,sales,"(9.841266, 44.121864)",19125
+487,487,LA LUNENSE S.R.L.,, ,sales,"(9.969673, 44.104187)",19038
+488,488,Autoliguria,,www.autoliguria-fcagroup.it/concessionario/abarth?locationCode=00002780&bannerid=DL&source=WCOR,sales,"(8.461721, 44.296338)",17100
+489,489,Visauto S.r.l.,,www.visauto-fcagroup.it/concessionario/abarth?locationCode=00002764&bannerid=DL&source=WCOR,sales,"(8.85618, 44.901424)",15057
+490,490,Danilo Degiorgi,,www.degiorgi-fcagroup.it/concessionario/abarth?locationCode=00001167&bannerid=DL&source=WCOR,sales,"(9.057335, 44.996813)",27058
+491,491,Rossi Leauto,,www.rossileauto-fcagroup.it/concessionario/abarth?locationCode=00001597&bannerid=DL&source=WCOR,sales,"(10.09418, 44.030454)",54100
+492,492,PROGRAMMA AUTO S.P.A.,,www.programmauto-fcagroup.it/concessionario/abarth?locationCode=00002728&bannerid=DL&source=WCOR,sales,"(9.73535, 45.0306)",29122
+493,493,Programma Auto S.p.A.,, ,sales,"(9.706045, 45.035124)",29122
+494,494,LAZZARI S.P.A.,,www.lazzari-fcagroup.it/concessionario/abarth?locationCode=00005783&bannerid=DL&source=WCOR,sales,"(9.673888, 45.150789)",26845
+495,495,AUTO ZATTI S.R.L.,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00008170&bannerid=DL&source=WCOR,sales,"(10.111978, 44.85338)",43012
+496,496,GRUPPO BOSSONI S.P.A.,, ,sales,"(9.981407, 45.149088)",26100
+497,497,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00008165&bannerid=DL&source=WCOR,sales,"(10.005793, 45.146027)",26100
+498,498,Auto Zatti,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00002281&bannerid=DL&source=WCOR,sales,"(10.288466, 44.80957)",43121
+499,499,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001567&bannerid=DL&source=WCOR,sales,"(9.626082, 45.367351)",26010
+500,500,Lazzari,,www.lazzari-fcagroup.it/concessionario/abarth?locationCode=00005786&bannerid=DL&source=WCOR,sales,"(9.458235, 45.323485)",26900
+501,501,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001575&bannerid=DL&source=WCOR,sales,"(10.135759, 45.344952)",25025
+502,502,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001578&bannerid=DL&source=WCOR,sales,"(9.924302, 45.401931)",25034
+503,503,AUTO ZATTI S.R.L.,, ,sales,"(10.481246, 44.863769)",42040
+504,504,AUTOINGROSS TORINO SPA,,www.autoingros-fcagroup.it/concessionario/abarth?locationCode=00010222&bannerid=DL&source=WCOR,sales,"(9.12008, 45.141575)",27028
+505,505,Danilo Degiorgi,,www.degiorgi-fcagroup.it/concessionario/abarth?locationCode=00001167&bannerid=DL&source=WCOR,sales,"(9.057335, 44.996813)",27058
+506,506,MASSIRONI S.R.L.,,www.massironi-fcagroup.it/concessionario/abarth?locationCode=00001872&bannerid=DL&source=WCOR,sales,"(9.32164, 45.36358)",20077
+507,507,AUTOSTILE S.P.A.,,www.autostile-fcagroup.it/concessionario/abarth?locationCode=00002632&bannerid=DL&source=WCOR,sales,"(10.579743, 44.717633)",42100
+508,508,AUTO ZATTI S.R.L.,, ,sales,"(10.652905, 44.914571)",42016
+509,509,Chioda S.r.l.,,www.chioda-fcagroup.it/concessionario/abarth?locationCode=00001664&bannerid=DL&source=WCOR,sales,"(9.412327, 45.496858)",20066
+510,510,MOCAUTOGROUP S.R.L.,,www.mocauto-fcagroup.it/concessionario/abarth?locationCode=00008426&bannerid=DL&source=WCOR,sales,"(9.175952, 45.414302)",20142
+511,511,Gruppo Bossoni S.p.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001568&bannerid=DL&source=WCOR,sales,"(10.162194, 45.546848)",25125
+512,512,C.A.A.R. S.r.l.,,www.caar-fcagroup.it/concessionario/abarth?locationCode=00002683&bannerid=DL&source=WCOR,sales,"(10.426299, 44.436026)",42035
+513,513,Visauto S.r.l.,,www.visauto-fcagroup.it/concessionario/abarth?locationCode=00002764&bannerid=DL&source=WCOR,sales,"(8.85618, 44.901424)",15057
+514,514,C.A.A.R. S.r.l.,,www.caar-fcagroup.it/concessionario/abarth?locationCode=00002683&bannerid=DL&source=WCOR,sales,"(10.426299, 44.436026)",42035
+515,515,Sport Rama Gruppo Autorama,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00004555&bannerid=DL&source=WCOR,sales,"(10.787234, 44.556462)",41049
+516,516,Rossi Leauto,,www.rossileauto-fcagroup.it/concessionario/abarth?locationCode=00001597&bannerid=DL&source=WCOR,sales,"(10.09418, 44.030454)",54100
+517,517,LA LUNENSE S.R.L.,, ,sales,"(9.969673, 44.104187)",19038
+518,518,AUTOSTILE S.P.A.,,www.autostile-fcagroup.it/concessionario/abarth?locationCode=00002632&bannerid=DL&source=WCOR,sales,"(10.579743, 44.717633)",42100
+519,519,F.LLI BONACINI  S.P.A.,,www.bonacini-fcagroup.it/concessionario/abarth?locationCode=00002751&bannerid=DL&source=WCOR,sales,"(10.74901, 44.657426)",42100
+520,520,Simcar S.r.l.,,www.simcar-fcagroup.it/concessionario/abarth?locationCode=00005671&bannerid=DL&source=WCOR,sales,"(9.841266, 44.121864)",19125
+521,521,GENERAL AUTO DI SICILIANO S.R.L.,,www.generalauto-srl.it/concessionario/abarth?locationCode=00007061&bannerid=DL&source=WCOR,sales,"(10.29759, 43.883572)",55054
+522,522,Auto Zatti,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00002281&bannerid=DL&source=WCOR,sales,"(10.288466, 44.80957)",43121
+523,523,AUTO-SI S.R.L.,,www.autosi-fcagroup.it/concessionario/abarth?locationCode=00001231&bannerid=DL&source=WCOR,sales,"(10.486307, 43.839926)",55100
+524,524,BRANDINI S.P.A.,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00006821&bannerid=DL&source=WCOR,sales,"(10.935494, 43.987713)",51100
+525,525,GRUPPO AUTORAMA S.P.A.,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00007593&bannerid=DL&source=WCOR,sales,"(10.97799, 44.66392)",41122
+526,526,AUTO ZATTI S.R.L.,, ,sales,"(10.481246, 44.863769)",42040
+527,527,F.LLI  BONACINI S.P.A.,,www.bonacini-fcagroup.it/concessionario/abarth?locationCode=00007989&bannerid=DL&source=WCOR,sales,"(10.880838, 44.771409)",41012
+528,528,AUTO ZATTI S.R.L.,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00008170&bannerid=DL&source=WCOR,sales,"(10.111978, 44.85338)",43012
+529,529,AUTO ZATTI S.R.L.,, ,sales,"(10.652905, 44.914571)",42016
+530,530,Giustiauto,,www.giustiauto-fcagroup.it/concessionario/abarth?locationCode=00002503&bannerid=DL&source=WCOR,sales,"(10.43804, 43.679609)",56121
+531,531,Maresca e Fiorentino S.p.A.,,www.marescafiorentino-fcagroup.it/concessionario/abarth?locationCode=00000850&bannerid=DL&source=WCOR,sales,"(11.279301, 44.515651)",40132
+532,532,DOTT. MANLIO PALMUCCI S.P.A. - NUOVA 4M,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00008258&bannerid=DL&source=WCOR,sales,"(11.065654, 43.879607)",59100
+533,533,GIUSTIAUTO S.R.L.,, ,sales,"(10.554595, 43.676007)",56021
+534,534,AUTO ZATTI S.R.L.,, ,sales,"(10.481246, 44.863769)",42040
+535,535,Auto Zatti,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00002281&bannerid=DL&source=WCOR,sales,"(10.288466, 44.80957)",43121
+536,536,AUTO ZATTI S.R.L.,, ,sales,"(10.652905, 44.914571)",42016
+537,537,AUTO ZATTI S.R.L.,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00008170&bannerid=DL&source=WCOR,sales,"(10.111978, 44.85338)",43012
+538,538,AUTOSTILE S.P.A.,,www.autostile-fcagroup.it/concessionario/abarth?locationCode=00002632&bannerid=DL&source=WCOR,sales,"(10.579743, 44.717633)",42100
+539,539,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00008165&bannerid=DL&source=WCOR,sales,"(10.005793, 45.146027)",26100
+540,540,GRUPPO BOSSONI S.P.A.,, ,sales,"(9.981407, 45.149088)",26100
+541,541,F.LLI BONACINI  S.P.A.,,www.bonacini-fcagroup.it/concessionario/abarth?locationCode=00002751&bannerid=DL&source=WCOR,sales,"(10.74901, 44.657426)",42100
+542,542,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00007289&bannerid=DL&source=WCOR,sales,"(10.789933, 45.18944)",46047
+543,543,GRUPPO BOSSONI S.P.A.,, ,sales,"(10.789933, 45.18944)",46047
+544,544,F.LLI  BONACINI S.P.A.,,www.bonacini-fcagroup.it/concessionario/abarth?locationCode=00007989&bannerid=DL&source=WCOR,sales,"(10.880838, 44.771409)",41012
+545,545,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001575&bannerid=DL&source=WCOR,sales,"(10.135759, 45.344952)",25025
+546,546,Sport Rama Gruppo Autorama,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00004555&bannerid=DL&source=WCOR,sales,"(10.787234, 44.556462)",41049
+547,547,PROGRAMMA AUTO S.P.A.,,www.programmauto-fcagroup.it/concessionario/abarth?locationCode=00002728&bannerid=DL&source=WCOR,sales,"(9.73535, 45.0306)",29122
+548,548,GRUPPO AUTORAMA S.P.A.,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00007593&bannerid=DL&source=WCOR,sales,"(10.97799, 44.66392)",41122
+549,549,C.A.A.R. S.r.l.,,www.caar-fcagroup.it/concessionario/abarth?locationCode=00002683&bannerid=DL&source=WCOR,sales,"(10.426299, 44.436026)",42035
+550,550,Programma Auto S.p.A.,, ,sales,"(9.706045, 45.035124)",29122
+551,551,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001573&bannerid=DL&source=WCOR,sales,"(10.520924, 45.449339)",25015
+552,552,LAZZARI S.P.A.,,www.lazzari-fcagroup.it/concessionario/abarth?locationCode=00005783&bannerid=DL&source=WCOR,sales,"(9.673888, 45.150789)",26845
+553,553,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001578&bannerid=DL&source=WCOR,sales,"(9.924302, 45.401931)",25034
+554,554,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00006412&bannerid=DL&source=WCOR,sales,"(10.306991, 45.513137)",25086
+555,555,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00008368&bannerid=DL&source=WCOR,sales,"(10.973218, 45.402267)",37135
+556,556,Gruppo Bossoni S.p.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001568&bannerid=DL&source=WCOR,sales,"(10.162194, 45.546848)",25125
+557,557,AUTOTEAM 9 S.R.L.,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00008264&bannerid=DL&source=WCOR,sales,"(10.960875, 45.445028)",37138
+558,558,AUTOTEAM 9 SRL,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00010259&bannerid=DL&source=WCOR,sales,"(11.244281, 45.208727)",37035
+559,559,Sport Rama Gruppo Autorama,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00004555&bannerid=DL&source=WCOR,sales,"(10.787234, 44.556462)",41049
+560,560,Maresca e Fiorentino S.p.A.,,www.marescafiorentino-fcagroup.it/concessionario/abarth?locationCode=00000850&bannerid=DL&source=WCOR,sales,"(11.279301, 44.515651)",40132
+561,561,GRUPPO AUTORAMA S.P.A.,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00007593&bannerid=DL&source=WCOR,sales,"(10.97799, 44.66392)",41122
+562,562,Gruppoghedini,,www.gruppoghedini-fcagroup.it/concessionario/abarth?locationCode=00004079&bannerid=DL&source=WCOR,sales,"(11.402264, 44.503954)",40138
+563,563,BRANDINI S.P.A.,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00006821&bannerid=DL&source=WCOR,sales,"(10.935494, 43.987713)",51100
+564,564,F.LLI BONACINI  S.P.A.,,www.bonacini-fcagroup.it/concessionario/abarth?locationCode=00002751&bannerid=DL&source=WCOR,sales,"(10.74901, 44.657426)",42100
+565,565,C.A.A.R. S.r.l.,,www.caar-fcagroup.it/concessionario/abarth?locationCode=00002683&bannerid=DL&source=WCOR,sales,"(10.426299, 44.436026)",42035
+566,566,F.LLI  BONACINI S.P.A.,,www.bonacini-fcagroup.it/concessionario/abarth?locationCode=00007989&bannerid=DL&source=WCOR,sales,"(10.880838, 44.771409)",41012
+567,567,DOTT. MANLIO PALMUCCI S.P.A. - NUOVA 4M,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00008258&bannerid=DL&source=WCOR,sales,"(11.065654, 43.879607)",59100
+568,568,Dott. Manlio Palmucci S.p.A.,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00000704&bannerid=DL&source=WCOR,sales,"(11.112023, 43.869331)",59100
+569,569,AUTOSTILE S.P.A.,,www.autostile-fcagroup.it/concessionario/abarth?locationCode=00002632&bannerid=DL&source=WCOR,sales,"(10.579743, 44.717633)",42100
+570,570,CAR VILLAGE S.R.L.,,www.carvillage-fcagroup.it/concessionario/abarth?locationCode=00008292&bannerid=DL&source=WCOR,sales,"(11.19924, 43.83193)",50019
+571,571,Autosica,,www.autosica-fcagroup.it/concessionario/abarth?locationCode=00001406&bannerid=DL&source=WCOR,sales,"(11.728243, 44.367417)",40026
+572,572,Brandini,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00000990&bannerid=DL&source=WCOR,sales,"(11.235795, 43.773248)",50142
+573,573,AUTO-SI S.R.L.,,www.autosi-fcagroup.it/concessionario/abarth?locationCode=00001231&bannerid=DL&source=WCOR,sales,"(10.486307, 43.839926)",55100
+574,574,SCOTTI S.P.A.,,www.grupposcotti-fcagroup.it/concessionario/abarth?locationCode=00005403&bannerid=DL&source=WCOR,sales,"(10.9104, 43.7049)",50053
+575,575,AUTO ZATTI S.R.L.,, ,sales,"(10.652905, 44.914571)",42016
+576,576,AUTO ZATTI S.R.L.,, ,sales,"(10.481246, 44.863769)",42040
+577,577,GENERAL AUTO DI SICILIANO S.R.L.,,www.generalauto-srl.it/concessionario/abarth?locationCode=00007061&bannerid=DL&source=WCOR,sales,"(10.29759, 43.883572)",55054
+578,578,F.LLI  BONACINI S.P.A.,,www.bonacini-fcagroup.it/concessionario/abarth?locationCode=00007989&bannerid=DL&source=WCOR,sales,"(10.880838, 44.771409)",41012
+579,579,AUTO ZATTI S.R.L.,, ,sales,"(10.652905, 44.914571)",42016
+580,580,GRUPPO AUTORAMA S.P.A.,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00007593&bannerid=DL&source=WCOR,sales,"(10.97799, 44.66392)",41122
+581,581,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00007289&bannerid=DL&source=WCOR,sales,"(10.789933, 45.18944)",46047
+582,582,GRUPPO BOSSONI S.P.A.,, ,sales,"(10.789933, 45.18944)",46047
+583,583,F.LLI BONACINI  S.P.A.,,www.bonacini-fcagroup.it/concessionario/abarth?locationCode=00002751&bannerid=DL&source=WCOR,sales,"(10.74901, 44.657426)",42100
+584,584,AUTOTEAM 9 SRL,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00010259&bannerid=DL&source=WCOR,sales,"(11.244281, 45.208727)",37035
+585,585,AUTOSTILE S.P.A.,,www.autostile-fcagroup.it/concessionario/abarth?locationCode=00002632&bannerid=DL&source=WCOR,sales,"(10.579743, 44.717633)",42100
+586,586,AUTO ZATTI S.R.L.,, ,sales,"(10.481246, 44.863769)",42040
+587,587,Sport Rama Gruppo Autorama,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00004555&bannerid=DL&source=WCOR,sales,"(10.787234, 44.556462)",41049
+588,588,Maresca e Fiorentino S.p.A.,,www.marescafiorentino-fcagroup.it/concessionario/abarth?locationCode=00000850&bannerid=DL&source=WCOR,sales,"(11.279301, 44.515651)",40132
+589,589,CECCATO AUTOMOBILI S.P.A.,,www.gruppoceccato-fcagroup.it/concessionario/abarth?locationCode=00008368&bannerid=DL&source=WCOR,sales,"(10.973218, 45.402267)",37135
+590,590,Zancauto S.r.l.,,www.zancauto-srl.it/concessionario/abarth?locationCode=00003606&bannerid=DL&source=WCOR,sales,"(11.380042, 45.326084)",37040
+591,591,AUTOTEAM 9 S.R.L.,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00008264&bannerid=DL&source=WCOR,sales,"(10.960875, 45.445028)",37138
+592,592,Gruppoghedini,,www.gruppoghedini-fcagroup.it/concessionario/abarth?locationCode=00004079&bannerid=DL&source=WCOR,sales,"(11.402264, 44.503954)",40138
+593,593,Auto Zatti,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00002281&bannerid=DL&source=WCOR,sales,"(10.288466, 44.80957)",43121
+594,594,BI-ELLE AUTO S.P.A.,, ,sales,"(11.619053, 45.225092)",35045
+595,595,AUTOTEAM 9 S.R.L.,,www.autoteam9-fcagroup.it/concessionario/abarth?locationCode=00008015&bannerid=DL&source=WCOR,sales,"(11.779818, 45.03414)",45100
+596,596,GRUPPO BOSSONI S.P.A.,,www.gruppobossoni-fcagroup.it/concessionario/abarth?locationCode=00001573&bannerid=DL&source=WCOR,sales,"(10.520924, 45.449339)",25015
+597,597,Bi-Elle Auto S.p.A.,, ,sales,"(11.757195, 45.246926)",35043
+598,598,AUTO ZATTI S.R.L.,,www.autozatti-fcagroup.it/concessionario/abarth?locationCode=00008170&bannerid=DL&source=WCOR,sales,"(10.111978, 44.85338)",43012
+599,599,C.A.A.R. S.r.l.,,www.caar-fcagroup.it/concessionario/abarth?locationCode=00002683&bannerid=DL&source=WCOR,sales,"(10.426299, 44.436026)",42035
+600,600,Autosica,,www.autosica-fcagroup.it/concessionario/abarth?locationCode=00001406&bannerid=DL&source=WCOR,sales,"(11.728243, 44.367417)",40026
+601,601,Gruppoghedini,,www.gruppoghedini-fcagroup.it/concessionario/abarth?locationCode=00004079&bannerid=DL&source=WCOR,sales,"(11.402264, 44.503954)",40138
+602,602,Maresca e Fiorentino S.p.A.,,www.marescafiorentino-fcagroup.it/concessionario/abarth?locationCode=00000850&bannerid=DL&source=WCOR,sales,"(11.279301, 44.515651)",40132
+603,603,AUTO SICA S.R.L.,,www.autosica-fcagroup.it/concessionario/abarth?locationCode=00010119&bannerid=DL&source=WCOR,sales,"(12.041273, 44.222728)",47100
+604,604,GHETTI MULTISERVICE S.R.L.,,www.ghetti-fcagroup.it/concessionario/abarth?locationCode=00007332&bannerid=DL&source=WCOR,sales,"(12.148678, 44.420663)",48124
+605,605,PULZONI - ANTONELLI,,www.autosat-fcagroup.it/concessionario/abarth?locationCode=00004634&bannerid=DL&source=WCOR,sales,"(12.274898, 44.128498)",47023
+606,606,GRUPPO AUTORAMA S.P.A.,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00007593&bannerid=DL&source=WCOR,sales,"(10.97799, 44.66392)",41122
+607,607,CAR VILLAGE S.R.L.,,www.carvillage-fcagroup.it/concessionario/abarth?locationCode=00008292&bannerid=DL&source=WCOR,sales,"(11.19924, 43.83193)",50019
+608,608,Dott. Manlio Palmucci S.p.A.,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00000704&bannerid=DL&source=WCOR,sales,"(11.112023, 43.869331)",59100
+609,609,BRANDINI S.P.A.,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00006821&bannerid=DL&source=WCOR,sales,"(10.935494, 43.987713)",51100
+610,610,DOTT. MANLIO PALMUCCI S.P.A. - NUOVA 4M,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00008258&bannerid=DL&source=WCOR,sales,"(11.065654, 43.879607)",59100
+611,611,Brandini,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00000990&bannerid=DL&source=WCOR,sales,"(11.235795, 43.773248)",50142
+612,612,Sport Rama Gruppo Autorama,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00004555&bannerid=DL&source=WCOR,sales,"(10.787234, 44.556462)",41049
+613,613,GHETTI MULTISERVICE S.R.L.,,www.ghetti-fcagroup.it/concessionario/abarth?locationCode=00007332&bannerid=DL&source=WCOR,sales,"(12.148678, 44.420663)",48124
+614,614,AUTO SICA S.R.L.,,www.autosica-fcagroup.it/concessionario/abarth?locationCode=00010119&bannerid=DL&source=WCOR,sales,"(12.041273, 44.222728)",47100
+615,615,PULZONI - ANTONELLI,,www.autosat-fcagroup.it/concessionario/abarth?locationCode=00004634&bannerid=DL&source=WCOR,sales,"(12.274898, 44.128498)",47023
+616,616,Autosica,,www.autosica-fcagroup.it/concessionario/abarth?locationCode=00001406&bannerid=DL&source=WCOR,sales,"(11.728243, 44.367417)",40026
+617,617,DI.BA. S.P.A.,,www.diba-spa.it/concessionario/abarth?locationCode=00010130&bannerid=DL&source=WCOR,sales,"(12.58024, 44.04219)",47900
+618,618,Gruppoghedini,,www.gruppoghedini-fcagroup.it/concessionario/abarth?locationCode=00004079&bannerid=DL&source=WCOR,sales,"(11.402264, 44.503954)",40138
+619,619,Gruppo DIBa,,www.diba-spa.it/concessionario/abarth?locationCode=00000171&bannerid=DL&source=WCOR,sales,"(12.884779, 43.894629)",61100
+620,620,Rossi Leauto,,www.rossileauto-fcagroup.it/concessionario/abarth?locationCode=00001597&bannerid=DL&source=WCOR,sales,"(10.09418, 44.030454)",54100
+621,621,GENERAL AUTO DI SICILIANO S.R.L.,,www.generalauto-srl.it/concessionario/abarth?locationCode=00007061&bannerid=DL&source=WCOR,sales,"(10.29759, 43.883572)",55054
+622,622,LA LUNENSE S.R.L.,, ,sales,"(9.969673, 44.104187)",19038
+623,623,AUTO-SI S.R.L.,,www.autosi-fcagroup.it/concessionario/abarth?locationCode=00001231&bannerid=DL&source=WCOR,sales,"(10.486307, 43.839926)",55100
+624,624,Simcar S.r.l.,,www.simcar-fcagroup.it/concessionario/abarth?locationCode=00005671&bannerid=DL&source=WCOR,sales,"(9.841266, 44.121864)",19125
+625,625,Giustiauto,,www.giustiauto-fcagroup.it/concessionario/abarth?locationCode=00002503&bannerid=DL&source=WCOR,sales,"(10.43804, 43.679609)",56121
+626,626,C.A.A.R. S.r.l.,,www.caar-fcagroup.it/concessionario/abarth?locationCode=00002683&bannerid=DL&source=WCOR,sales,"(10.426299, 44.436026)",42035
+627,627,GIUSTIAUTO S.R.L.,, ,sales,"(10.554595, 43.676007)",56021
+628,628,SCOTTI  S.P.A.,,www.grupposcotti-fcagroup.it/concessionario/abarth?locationCode=00006911&bannerid=DL&source=WCOR,sales,"(10.33337, 43.576426)",57121
+629,629,BRANDINI S.P.A.,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00006821&bannerid=DL&source=WCOR,sales,"(10.935494, 43.987713)",51100
+630,630,Auto 2000,,www.autoduemila.it/concessionario/abarth?locationCode=00001702&bannerid=DL&source=WCOR,sales,"(10.629337, 43.62828)",56038
+631,631,SCOTTI S.P.A.,,www.grupposcotti-fcagroup.it/concessionario/abarth?locationCode=00005403&bannerid=DL&source=WCOR,sales,"(10.9104, 43.7049)",50053
+632,632,DOTT. MANLIO PALMUCCI S.P.A. - NUOVA 4M,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00008258&bannerid=DL&source=WCOR,sales,"(11.065654, 43.879607)",59100
+633,633,Dott. Manlio Palmucci S.p.A.,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00000704&bannerid=DL&source=WCOR,sales,"(11.112023, 43.869331)",59100
+634,634,Sport Rama Gruppo Autorama,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00004555&bannerid=DL&source=WCOR,sales,"(10.787234, 44.556462)",41049
+635,635,BRANDINI S.P.A.,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00007584&bannerid=DL&source=WCOR,sales,"(11.0998, 42.78207)",58100
+636,636,SIENA AUTO S.R.L.,,www.sienaauto-spa.it/concessionario/abarth?locationCode=00000157&bannerid=DL&source=WCOR,sales,"(11.429648, 43.219773)",53014
+637,637,S.M.A.B. DI MARZUCCHI ALFREDO E C.S.N.C.,, ,sales,"(11.375273, 43.265047)",53100
+638,638,UGO SCOTTI S.R.L.,,www.ugoscotti-fcagroup.it/concessionario/abarth?locationCode=00005448&bannerid=DL&source=WCOR,sales,"(11.338064, 43.291951)",53100
+639,639,Auto 2000,,www.autoduemila.it/concessionario/abarth?locationCode=00001702&bannerid=DL&source=WCOR,sales,"(10.629337, 43.62828)",56038
+640,640,SCOTTI S.P.A.,,www.grupposcotti-fcagroup.it/concessionario/abarth?locationCode=00005403&bannerid=DL&source=WCOR,sales,"(10.9104, 43.7049)",50053
+641,641,GIUSTIAUTO S.R.L.,, ,sales,"(10.554595, 43.676007)",56021
+642,642,UGO SCOTTI S.R.L.,,www.ugoscotti-fcagroup.it/concessionario/abarth?locationCode=00005448&bannerid=DL&source=WCOR,sales,"(11.338064, 43.291951)",53100
+643,643,S.M.A.B. DI MARZUCCHI ALFREDO E C.S.N.C.,, ,sales,"(11.375273, 43.265047)",53100
+644,644,Giustiauto,,www.giustiauto-fcagroup.it/concessionario/abarth?locationCode=00002503&bannerid=DL&source=WCOR,sales,"(10.43804, 43.679609)",56121
+645,645,Brandini,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00000990&bannerid=DL&source=WCOR,sales,"(11.235795, 43.773248)",50142
+646,646,SCOTTI  S.P.A.,,www.grupposcotti-fcagroup.it/concessionario/abarth?locationCode=00006911&bannerid=DL&source=WCOR,sales,"(10.33337, 43.576426)",57121
+647,647,SIENA AUTO S.R.L.,,www.sienaauto-spa.it/concessionario/abarth?locationCode=00000157&bannerid=DL&source=WCOR,sales,"(11.429648, 43.219773)",53014
+648,648,CAR VILLAGE S.R.L.,,www.carvillage-fcagroup.it/concessionario/abarth?locationCode=00008292&bannerid=DL&source=WCOR,sales,"(11.19924, 43.83193)",50019
+649,649,DOTT. MANLIO PALMUCCI S.P.A. - NUOVA 4M,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00008258&bannerid=DL&source=WCOR,sales,"(11.065654, 43.879607)",59100
+650,650,Dott. Manlio Palmucci S.p.A.,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00000704&bannerid=DL&source=WCOR,sales,"(11.112023, 43.869331)",59100
+651,651,AUTO-SI S.R.L.,,www.autosi-fcagroup.it/concessionario/abarth?locationCode=00001231&bannerid=DL&source=WCOR,sales,"(10.486307, 43.839926)",55100
+652,652,Nuovauto S.p.A.,,www.nuovauto-fcagroup.it/concessionario/abarth?locationCode=00000922&bannerid=DL&source=WCOR,sales,"(11.555784, 43.551157)",52028
+653,653,BRANDINI S.P.A.,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00006821&bannerid=DL&source=WCOR,sales,"(10.935494, 43.987713)",51100
+654,654,GENERAL AUTO DI SICILIANO S.R.L.,,www.generalauto-srl.it/concessionario/abarth?locationCode=00007061&bannerid=DL&source=WCOR,sales,"(10.29759, 43.883572)",55054
+655,655,BRANDINI S.P.A.,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00007584&bannerid=DL&source=WCOR,sales,"(11.0998, 42.78207)",58100
+656,656,BRANDINI S.P.A.,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00006821&bannerid=DL&source=WCOR,sales,"(10.935494, 43.987713)",51100
+657,657,DOTT. MANLIO PALMUCCI S.P.A. - NUOVA 4M,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00008258&bannerid=DL&source=WCOR,sales,"(11.065654, 43.879607)",59100
+658,658,Dott. Manlio Palmucci S.p.A.,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00000704&bannerid=DL&source=WCOR,sales,"(11.112023, 43.869331)",59100
+659,659,CAR VILLAGE S.R.L.,,www.carvillage-fcagroup.it/concessionario/abarth?locationCode=00008292&bannerid=DL&source=WCOR,sales,"(11.19924, 43.83193)",50019
+660,660,SCOTTI S.P.A.,,www.grupposcotti-fcagroup.it/concessionario/abarth?locationCode=00005403&bannerid=DL&source=WCOR,sales,"(10.9104, 43.7049)",50053
+661,661,AUTO-SI S.R.L.,,www.autosi-fcagroup.it/concessionario/abarth?locationCode=00001231&bannerid=DL&source=WCOR,sales,"(10.486307, 43.839926)",55100
+662,662,Brandini,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00000990&bannerid=DL&source=WCOR,sales,"(11.235795, 43.773248)",50142
+663,663,GIUSTIAUTO S.R.L.,, ,sales,"(10.554595, 43.676007)",56021
+664,664,Auto 2000,,www.autoduemila.it/concessionario/abarth?locationCode=00001702&bannerid=DL&source=WCOR,sales,"(10.629337, 43.62828)",56038
+665,665,GENERAL AUTO DI SICILIANO S.R.L.,,www.generalauto-srl.it/concessionario/abarth?locationCode=00007061&bannerid=DL&source=WCOR,sales,"(10.29759, 43.883572)",55054
+666,666,Giustiauto,,www.giustiauto-fcagroup.it/concessionario/abarth?locationCode=00002503&bannerid=DL&source=WCOR,sales,"(10.43804, 43.679609)",56121
+667,667,C.A.A.R. S.r.l.,,www.caar-fcagroup.it/concessionario/abarth?locationCode=00002683&bannerid=DL&source=WCOR,sales,"(10.426299, 44.436026)",42035
+668,668,Sport Rama Gruppo Autorama,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00004555&bannerid=DL&source=WCOR,sales,"(10.787234, 44.556462)",41049
+669,669,Maresca e Fiorentino S.p.A.,,www.marescafiorentino-fcagroup.it/concessionario/abarth?locationCode=00000850&bannerid=DL&source=WCOR,sales,"(11.279301, 44.515651)",40132
+670,670,Rossi Leauto,,www.rossileauto-fcagroup.it/concessionario/abarth?locationCode=00001597&bannerid=DL&source=WCOR,sales,"(10.09418, 44.030454)",54100
+671,671,Gruppoghedini,,www.gruppoghedini-fcagroup.it/concessionario/abarth?locationCode=00004079&bannerid=DL&source=WCOR,sales,"(11.402264, 44.503954)",40138
+672,672,SCOTTI  S.P.A.,,www.grupposcotti-fcagroup.it/concessionario/abarth?locationCode=00006911&bannerid=DL&source=WCOR,sales,"(10.33337, 43.576426)",57121
+673,673,F.LLI BONACINI  S.P.A.,,www.bonacini-fcagroup.it/concessionario/abarth?locationCode=00002751&bannerid=DL&source=WCOR,sales,"(10.74901, 44.657426)",42100
+674,674,GRUPPO AUTORAMA S.P.A.,,www.gruppoautorama-fcagroup.it/concessionario/abarth?locationCode=00007593&bannerid=DL&source=WCOR,sales,"(10.97799, 44.66392)",41122
+675,675,LA LUNENSE S.R.L.,, ,sales,"(9.969673, 44.104187)",19038
+676,676,BRANDINI S.P.A.,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00007584&bannerid=DL&source=WCOR,sales,"(11.0998, 42.78207)",58100
+677,677,SIENA AUTO S.R.L.,,www.sienaauto-spa.it/concessionario/abarth?locationCode=00000157&bannerid=DL&source=WCOR,sales,"(11.429648, 43.219773)",53014
+678,678,S.M.A.B. DI MARZUCCHI ALFREDO E C.S.N.C.,, ,sales,"(11.375273, 43.265047)",53100
+679,679,UGO SCOTTI S.R.L.,,www.ugoscotti-fcagroup.it/concessionario/abarth?locationCode=00005448&bannerid=DL&source=WCOR,sales,"(11.338064, 43.291951)",53100
+680,680,Centroautovt,,www.centroautovt-fcagroup.it/concessionario/abarth?locationCode=00006301&bannerid=DL&source=WCOR,sales,"(12.078869, 42.430155)",1100
+681,681,Nuovauto S.p.A.,,www.nuovauto-fcagroup.it/concessionario/abarth?locationCode=00000922&bannerid=DL&source=WCOR,sales,"(11.555784, 43.551157)",52028
+682,682,UGO SCOTTI S.R.L.,,www.ugoscotti-fcagroup.it/concessionario/abarth?locationCode=00005448&bannerid=DL&source=WCOR,sales,"(11.338064, 43.291951)",53100
+683,683,S.M.A.B. DI MARZUCCHI ALFREDO E C.S.N.C.,, ,sales,"(11.375273, 43.265047)",53100
+684,684,SIENA AUTO S.R.L.,,www.sienaauto-spa.it/concessionario/abarth?locationCode=00000157&bannerid=DL&source=WCOR,sales,"(11.429648, 43.219773)",53014
+685,685,IVAR AUTO S.P.A.,,www.ivarauto-fcagroup.it/concessionario/abarth?locationCode=00007299&bannerid=DL&source=WCOR,sales,"(11.840193, 43.462313)",52100
+686,686,Brandini,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00000990&bannerid=DL&source=WCOR,sales,"(11.235795, 43.773248)",50142
+687,687,CAR VILLAGE S.R.L.,,www.carvillage-fcagroup.it/concessionario/abarth?locationCode=00008292&bannerid=DL&source=WCOR,sales,"(11.19924, 43.83193)",50019
+688,688,SCOTTI S.P.A.,,www.grupposcotti-fcagroup.it/concessionario/abarth?locationCode=00005403&bannerid=DL&source=WCOR,sales,"(10.9104, 43.7049)",50053
+689,689,Dott. Manlio Palmucci S.p.A.,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00000704&bannerid=DL&source=WCOR,sales,"(11.112023, 43.869331)",59100
+690,690,SATIRI AUTO S.P.A.,,www.satiri-fcagroup.it/concessionario/abarth?locationCode=00008098&bannerid=DL&source=WCOR,sales,"(12.220462, 43.487045)",6012
+691,691,DOTT. MANLIO PALMUCCI S.P.A. - NUOVA 4M,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00008258&bannerid=DL&source=WCOR,sales,"(11.065654, 43.879607)",59100
+692,692,Auto 2000,,www.autoduemila.it/concessionario/abarth?locationCode=00001702&bannerid=DL&source=WCOR,sales,"(10.629337, 43.62828)",56038
+693,693,CAR VILLAGE S.R.L.,,www.carvillage-fcagroup.it/concessionario/abarth?locationCode=00008292&bannerid=DL&source=WCOR,sales,"(11.19924, 43.83193)",50019
+694,694,Dott. Manlio Palmucci S.p.A.,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00000704&bannerid=DL&source=WCOR,sales,"(11.112023, 43.869331)",59100
+695,695,Brandini,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00000990&bannerid=DL&source=WCOR,sales,"(11.235795, 43.773248)",50142
+696,696,DOTT. MANLIO PALMUCCI S.P.A. - NUOVA 4M,,www.palmucci-fcagroup.it/concessionario/abarth?locationCode=00008258&bannerid=DL&source=WCOR,sales,"(11.065654, 43.879607)",59100
+697,697,Autosica,,www.autosica-fcagroup.it/concessionario/abarth?locationCode=00001406&bannerid=DL&source=WCOR,sales,"(11.728243, 44.367417)",40026
+698,698,BRANDINI S.P.A.,,www.brandini-fcagroup.it/concessionario/abarth?locationCode=00006821&bannerid=DL&source=WCOR,sales,"(10.935494, 43.987713)",51100
+699,699,AUTO SICA S.R.L.,,www.autosica-fcagroup.it/concessionario/abarth?locationCode=00010119&bannerid=DL&source=WCOR,sales,"(12.041273, 44.222728)",47100
+700,700,Gruppoghedini,,www.gruppoghedini-fcagroup.it/concessionario/abarth?locationCode=00004079&bannerid=DL&source=WCOR,sales,"(11.402264, 44.503954)",40138
+701,701,Nuovauto S.p.A.,,www.nuovauto-fcagroup.it/concessionario/abarth?locationCode=00000922&bannerid=DL&source=WCOR,sales,"(11.555784, 43.551157)",52028
+702,702,Maresca e Fiorentino S.p.A.,,www.marescafiorentino-fcagroup.it/concessionario/abarth?locationCode=00000850&bannerid=DL&source=WCOR,sales,"(11.279301, 44.515651)",40132
+703,703,SCOTTI S.P.A.,,www.grupposcotti-fcagroup.it/concessionario/abarth?locationCode=00005403&bannerid=DL&source=WCOR,sales,"(10.9104, 43.7049)",50053
+704,704,PULZONI - ANTONELLI,,www.autosat-fcagroup.it/concessionario/abarth?locationCode=00004634&bannerid=DL&source=WCOR,sales,"(12.274898, 44.128498)",47023
+705,705,GHETTI MULTISERVICE S.R.L.,,www.ghetti-fcagroup.it/concessionario/abarth?locationCode=00007332&bannerid=DL&source=WCOR,sales,"(12.148678, 44.420663)",48124
+706,706,IVAR AUTO S.P.A.,,www.ivarauto-fcagroup.it/concessionario/abarth?locationCode=00007299&bannerid=DL&source=WCOR,sales,"(11.840193, 43.462313)",52100
+707,707,SATIRI AUTO S.P.A.,,www.satiri-fcagroup.it/concessionario/abarth?locationCode=00008098&bannerid=DL&source=WCOR,sales,"(12.220462, 43.487045)",6012
+708,708,IVAR AUTO S.P.A.,,www.ivarauto-fcagroup.it/concessionario/abarth?locationCode=00007299&bannerid=DL&source=WCOR,sales,"(11.840193, 43.462313)",52100
+709,709,SATIRI AUTO S.P.A.,, ,sales,"(12.5722, 43.3473)",6024
+710,710,SATIRI AUTO S.P.A.,,www.satiri-fcagroup.it/concessionario/abarth?locationCode=00007354&bannerid=DL&source=WCOR,sales,"(12.36702, 43.09214)",6128
+711,711,Nuovauto S.p.A.,,www.nuovauto-fcagroup.it/concessionario/abarth?locationCode=00000922&bannerid=DL&source=WCOR,sales,"(11.555784, 43.551157)",52028
+712,712,Marchiauto,,www.marchi-fcagroup.it/concessionario/abarth?locationCode=00001789&bannerid=DL&source=WCOR,sales,"(12.561679, 43.055902)",6083
+713,713,SIENA AUTO S.R.L.,,www.sienaauto-spa.it/concessionario/abarth?locationCode=00000157&bannerid=DL&source=WCOR,sales,"(11.429648, 43.219773)",53014
+714,714,Satiri Auto,, ,sales,"(12.7769, 43.234)",6023
+715,715,S.M.A.B. DI MARZUCCHI ALFREDO E C.S.N.C.,, ,sales,"(11.375273, 43.265047)",53100
+716,716,UGO SCOTTI S.R.L.,,www.ugoscotti-fcagroup.it/concessionario/abarth?locationCode=00005448&bannerid=DL&source=WCOR,sales,"(11.338064, 43.291951)",53100
+717,717,Marchiauto,,www.marchi-fcagroup.it/concessionario/abarth?locationCode=00001789&bannerid=DL&source=WCOR,sales,"(12.561679, 43.055902)",6083
+718,718,SATIRI AUTO S.P.A.,,www.satiri-fcagroup.it/concessionario/abarth?locationCode=00007354&bannerid=DL&source=WCOR,sales,"(12.36702, 43.09214)",6128
+719,719,SATIRI AUTO S.P.A.,,www.satiri-fcagroup.it/concessionario/abarth?locationCode=00007272&bannerid=DL&source=WCOR,sales,"(12.73015, 42.894622)",6039
+720,720,Satiri Auto,, ,sales,"(12.7769, 43.234)",6023
+721,721,SATIRI AUTO S.P.A.,, ,sales,"(12.5722, 43.3473)",6024
+722,722,SATIRI AUTO S.P.A.,,www.satiri-fcagroup.it/concessionario/abarth?locationCode=00008098&bannerid=DL&source=WCOR,sales,"(12.220462, 43.487045)",6012
+723,723,Centroautovt,,www.centroautovt-fcagroup.it/concessionario/abarth?locationCode=00006301&bannerid=DL&source=WCOR,sales,"(12.078869, 42.430155)",1100
+724,724,Gruppo DIBa,,www.diba-spa.it/concessionario/abarth?locationCode=00000171&bannerid=DL&source=WCOR,sales,"(12.884779, 43.894629)",61100
+725,725,DI.BA. S.P.A.,,www.diba-spa.it/concessionario/abarth?locationCode=00000168&bannerid=DL&source=WCOR,sales,"(13.0441, 43.831757)",61032
+726,726,DI.BA. S.P.A.,,www.diba-spa.it/concessionario/abarth?locationCode=00010130&bannerid=DL&source=WCOR,sales,"(12.58024, 44.04219)",47900
+727,727,Rondina Auto S.r.l.,,www.rondina-fcagroup.it/concessionario/abarth?locationCode=00000800&bannerid=DL&source=WCOR,sales,"(13.103106, 43.740767)",61037
+728,728,FRULLA S.R.L.,,www.frulla-fcagroup.it/concessionario/abarth?locationCode=00000198&bannerid=DL&source=WCOR,sales,"(13.193204, 43.728306)",60019
+729,729,PULZONI - ANTONELLI,,www.autosat-fcagroup.it/concessionario/abarth?locationCode=00004634&bannerid=DL&source=WCOR,sales,"(12.274898, 44.128498)",47023
+730,730,SATIRI AUTO S.P.A.,, ,sales,"(12.5722, 43.3473)",6024
+731,731,SATIRI AUTO S.P.A.,,www.satiri-fcagroup.it/concessionario/abarth?locationCode=00008098&bannerid=DL&source=WCOR,sales,"(12.220462, 43.487045)",6012
+732,732,Lucesoli & Mazzieri S.p.A.,,www.lucesolimazzieri-fcagroup.it/concessionario/abarth?locationCode=00000869&bannerid=DL&source=WCOR,sales,"(13.50865, 43.599565)",60128
+733,733,DI.BA. S.P.A.,,www.diba-spa.it/concessionario/abarth?locationCode=00000165&bannerid=DL&source=WCOR,sales,"(13.51153, 43.543597)",60131
+734,734,AUTO SICA S.R.L.,,www.autosica-fcagroup.it/concessionario/abarth?locationCode=00010119&bannerid=DL&source=WCOR,sales,"(12.041273, 44.222728)",47100
+735,735,LUCESOLI & MAZZIERI S.P.A.,, ,sales,"(13.498011, 43.520425)",60027
+736,736,Satiri Auto,, ,sales,"(12.7769, 43.234)",6023
+737,737,Menchi,, ,sales,"(13.492348, 43.274181)",62100
+738,738,Tombolini Motor Company,,www.tombolini-fcagroup.it/concessionario/abarth?locationCode=00000978&bannerid=DL&source=WCOR,sales,"(13.68172, 43.28288)",62012
+739,739,LUCESOLI & MAZZIERI S.P.A.,, ,sales,"(13.498011, 43.520425)",60027
+740,740,DI.BA. S.P.A.,,www.diba-spa.it/concessionario/abarth?locationCode=00000165&bannerid=DL&source=WCOR,sales,"(13.51153, 43.543597)",60131
+741,741,Lucesoli & Mazzieri S.p.A.,,www.lucesolimazzieri-fcagroup.it/concessionario/abarth?locationCode=00000869&bannerid=DL&source=WCOR,sales,"(13.50865, 43.599565)",60128
+742,742,TOMBOLINI MOTOR COMPANY S.P.A.,,www.tombolini-fcagroup.it/concessionario/abarth?locationCode=00000979&bannerid=DL&source=WCOR,sales,"(13.802481, 43.16304)",63822
+743,743,Satiri Auto,, ,sales,"(12.7769, 43.234)",6023
+744,744,FRULLA S.R.L.,,www.frulla-fcagroup.it/concessionario/abarth?locationCode=00000198&bannerid=DL&source=WCOR,sales,"(13.193204, 43.728306)",60019
+745,745,EMILCAR S.R.L.,,www.emilcar-fcagroup.it/concessionario/abarth?locationCode=00008434&bannerid=DL&source=WCOR,sales,"(13.60658, 42.85185)",63100
+746,746,Rondina Auto S.r.l.,,www.rondina-fcagroup.it/concessionario/abarth?locationCode=00000800&bannerid=DL&source=WCOR,sales,"(13.103106, 43.740767)",61037
+747,747,EMILCAR S.R.L.,,www.emilcar-fcagroup.it/concessionario/abarth?locationCode=00008421&bannerid=DL&source=WCOR,sales,"(13.88276, 42.90805)",63039
+748,748,SATIRI AUTO S.P.A.,, ,sales,"(12.5722, 43.3473)",6024
+749,749,DI.BA. S.P.A.,,www.diba-spa.it/concessionario/abarth?locationCode=00000168&bannerid=DL&source=WCOR,sales,"(13.0441, 43.831757)",61032
+750,750,SATIRI AUTO S.P.A.,,www.satiri-fcagroup.it/concessionario/abarth?locationCode=00007272&bannerid=DL&source=WCOR,sales,"(12.73015, 42.894622)",6039
+751,751,Auto 4 S.r.l.,,www.auto4-fcagroup.it/concessionario/abarth?locationCode=00001891&bannerid=DL&source=WCOR,sales,"(13.937024, 42.801021)",64019
+752,752,Marchiauto,,www.marchi-fcagroup.it/concessionario/abarth?locationCode=00001789&bannerid=DL&source=WCOR,sales,"(12.561679, 43.055902)",6083
+753,753,Autocentro Olgiata,,www.autocentroolgiata.it/concessionario/abarth?locationCode=00003092&bannerid=DL&source=WCOR,sales,"(12.376796, 42.023774)",123
+754,754,A. Fiori S.p.A.,,www.angelofiori-fcagroup.it/concessionario/abarth?locationCode=00002074&bannerid=DL&source=WCOR,sales,"(12.382553, 41.887983)",166
+755,755,ANGELO FIORI S.P.A.,,www.angelofiori-fcagroup.it/concessionario/abarth?locationCode=00002069&bannerid=DL&source=WCOR,sales,"(12.265763, 41.7397)",121
+756,756,STELLANTIS & YOU ROMA,,www.motorvillageitalia-roma.it/concessionario/abarth?locationCode=00005886&bannerid=DL&source=WCOR,sales,"(12.451443, 41.836867)",148
+757,757,ROSATI AUTO S.R.L. - GRUPPO ROSATI,,www.grupporosati-fcagroup.it/concessionario/abarth?locationCode=00006956&bannerid=DL&source=WCOR,sales,"(12.507863, 41.940196)",138
+758,758,ROSATI AUTO SRL - PROGRESSO,,www.grupporosati-fcagroup.it/concessionario/abarth?locationCode=00002033&bannerid=DL&source=WCOR,sales,"(12.48385, 41.845258)",142
+759,759,STELLANTIS & YOU ROMA,,www.motorvillageitalia-roma.it/concessionario/abarth?locationCode=00005888&bannerid=DL&source=WCOR,sales,"(12.506026, 41.890162)",185
+760,760,STELLANTIS & YOU ROMA,, ,sales,"(12.511339, 41.892627)",185
+761,761,ROSATI AUTO S.R.L. - GRUPPO ROSATI,, ,sales,"(12.54907, 41.969398)",139
+762,762,ROSATI AUTO S.R.L. - GRUPPO ROSATI,, ,sales,"(12.588952, 41.907064)",155
+763,763,Gruppo Rosati,,www.grupporosati-fcagroup.it/concessionario/abarth?locationCode=00002038&bannerid=DL&source=WCOR,sales,"(12.594845, 41.93273)",156
+764,764,Centroautovt,,www.centroautovt-fcagroup.it/concessionario/abarth?locationCode=00006301&bannerid=DL&source=WCOR,sales,"(12.078869, 42.430155)",1100
+765,765,AUTOPRENESTE S.R.L.,,www.autopreneste-fcagroup.it/concessionario/abarth?locationCode=00007822&bannerid=DL&source=WCOR,sales,"(12.616107, 41.759235)",47
+766,766,Centroautovt,,www.centroautovt-fcagroup.it/concessionario/abarth?locationCode=00006301&bannerid=DL&source=WCOR,sales,"(12.078869, 42.430155)",1100
+767,767,SATIRI AUTO S.P.A.,,www.satiri-fcagroup.it/concessionario/abarth?locationCode=00007354&bannerid=DL&source=WCOR,sales,"(12.36702, 43.09214)",6128
+768,768,SATIRI AUTO S.P.A.,,www.satiri-fcagroup.it/concessionario/abarth?locationCode=00007272&bannerid=DL&source=WCOR,sales,"(12.73015, 42.894622)",6039
+769,769,Marchiauto,,www.marchi-fcagroup.it/concessionario/abarth?locationCode=00001789&bannerid=DL&source=WCOR,sales,"(12.561679, 43.055902)",6083
+770,770,Autocentro Olgiata,,www.autocentroolgiata.it/concessionario/abarth?locationCode=00003092&bannerid=DL&source=WCOR,sales,"(12.376796, 42.023774)",123
+771,771,Gruppo Rosati,,www.grupporosati-fcagroup.it/concessionario/abarth?locationCode=00002038&bannerid=DL&source=WCOR,sales,"(12.594845, 41.93273)",156
+772,772,ROSATI AUTO S.R.L. - GRUPPO ROSATI,, ,sales,"(12.54907, 41.969398)",139
+773,773,ROSATI AUTO S.R.L. - GRUPPO ROSATI,, ,sales,"(12.588952, 41.907064)",155
+774,774,ROSATI AUTO S.R.L. - GRUPPO ROSATI,,www.grupporosati-fcagroup.it/concessionario/abarth?locationCode=00006956&bannerid=DL&source=WCOR,sales,"(12.507863, 41.940196)",138
+775,775,STELLANTIS & YOU ROMA,, ,sales,"(12.511339, 41.892627)",185
+776,776,STELLANTIS & YOU ROMA,,www.motorvillageitalia-roma.it/concessionario/abarth?locationCode=00005888&bannerid=DL&source=WCOR,sales,"(12.506026, 41.890162)",185
+777,777,ROSATI AUTO SRL - PROGRESSO,,www.grupporosati-fcagroup.it/concessionario/abarth?locationCode=00002033&bannerid=DL&source=WCOR,sales,"(12.48385, 41.845258)",142
+778,778,Autocentro Olgiata,,www.autocentroolgiata.it/concessionario/abarth?locationCode=00003092&bannerid=DL&source=WCOR,sales,"(12.376796, 42.023774)",123
+779,779,STELLANTIS & YOU ROMA,,www.motorvillageitalia-roma.it/concessionario/abarth?locationCode=00005886&bannerid=DL&source=WCOR,sales,"(12.451443, 41.836867)",148
+780,780,A. Fiori S.p.A.,,www.angelofiori-fcagroup.it/concessionario/abarth?locationCode=00002074&bannerid=DL&source=WCOR,sales,"(12.382553, 41.887983)",166
+781,781,AUTOPRENESTE S.R.L.,,www.autopreneste-fcagroup.it/concessionario/abarth?locationCode=00007822&bannerid=DL&source=WCOR,sales,"(12.616107, 41.759235)",47
+782,782,ANGELO FIORI S.P.A.,,www.angelofiori-fcagroup.it/concessionario/abarth?locationCode=00002069&bannerid=DL&source=WCOR,sales,"(12.265763, 41.7397)",121
+783,783,ECO-LIRI S.P.A.,,www.ecoliri.it/concessionario/abarth?locationCode=00003331&bannerid=DL&source=WCOR,sales,"(12.903597, 41.467567)",4100
+784,784,Centroautovt,,www.centroautovt-fcagroup.it/concessionario/abarth?locationCode=00006301&bannerid=DL&source=WCOR,sales,"(12.078869, 42.430155)",1100
+785,785,Sterpetti S.r.l.,,www.sterpetti-fcagroup.it/concessionario/abarth?locationCode=00000725&bannerid=DL&source=WCOR,sales,"(13.482727, 42.059835)",67051
+786,786,JOLLY AUTO S.R.L.,,www.jollyauto-fcagroup.it/concessionario/abarth?locationCode=00007023&bannerid=DL&source=WCOR,sales,"(13.336405, 41.569865)",3023
+787,787,JOLLY AUTO S.R.L.,,www.jollyauto-fcagroup.it/concessionario/abarth?locationCode=00007023&bannerid=DL&source=WCOR,sales,"(13.336405, 41.569865)",3023
+788,788,ECO-LIRI S.P.A.,,www.ecoliri.it/concessionario/abarth?locationCode=00003331&bannerid=DL&source=WCOR,sales,"(12.903597, 41.467567)",4100
+789,789,Eco Liri,,www.ecoliri.it/concessionario/abarth?locationCode=00003334&bannerid=DL&source=WCOR,sales,"(13.762412, 41.405173)",3047
+790,790,Jolly Auto,,www.jollyauto-fcagroup.it/concessionario/abarth?locationCode=00003410&bannerid=DL&source=WCOR,sales,"(13.574583, 41.702831)",3039
+791,791,AUTOPRENESTE S.R.L.,,www.autopreneste-fcagroup.it/concessionario/abarth?locationCode=00007822&bannerid=DL&source=WCOR,sales,"(12.616107, 41.759235)",47
+792,792,EMILCAR S.R.L.,,www.emilcar-fcagroup.it/concessionario/abarth?locationCode=00008434&bannerid=DL&source=WCOR,sales,"(13.60658, 42.85185)",63100
+793,793,SATIRI AUTO S.P.A.,,www.satiri-fcagroup.it/concessionario/abarth?locationCode=00007272&bannerid=DL&source=WCOR,sales,"(12.73015, 42.894622)",6039
+794,794,Auto 4 S.r.l.,,www.auto4-fcagroup.it/concessionario/abarth?locationCode=00001891&bannerid=DL&source=WCOR,sales,"(13.937024, 42.801021)",64019
+795,795,Sterpetti S.r.l.,,www.sterpetti-fcagroup.it/concessionario/abarth?locationCode=00000725&bannerid=DL&source=WCOR,sales,"(13.482727, 42.059835)",67051
+796,796,EMILCAR S.R.L.,,www.emilcar-fcagroup.it/concessionario/abarth?locationCode=00008421&bannerid=DL&source=WCOR,sales,"(13.88276, 42.90805)",63039
+797,797,Progetto Auto,,www.progettoauto-srl.it/concessionario/abarth?locationCode=00002055&bannerid=DL&source=WCOR,sales,"(14.036636, 42.648327)",64025
+798,798,Eco Liri,,www.ecoliri.it/concessionario/abarth?locationCode=00003334&bannerid=DL&source=WCOR,sales,"(13.762412, 41.405173)",3047
+799,799,Jolly Auto,,www.jollyauto-fcagroup.it/concessionario/abarth?locationCode=00003410&bannerid=DL&source=WCOR,sales,"(13.574583, 41.702831)",3039
+800,800,JOLLY AUTO S.R.L.,,www.jollyauto-fcagroup.it/concessionario/abarth?locationCode=00007023&bannerid=DL&source=WCOR,sales,"(13.336405, 41.569865)",3023
+801,801,AMICA & C. S.R.L.,,www.amica-fcagroup.it/concessionario/abarth?locationCode=00007420&bannerid=DL&source=WCOR,sales,"(14.333113, 41.042928)",81100
+802,802,Russauto Di E. Pianese S.r.l.,,www.russauto-srl.it/abarth?locationCode=00003247&bannerid=DL&source=WCOR,sales,"(14.156347, 40.927466)",80019
+803,803,Reginauto,,www.reginauto-fcagroup.it/concessionario/abarth?locationCode=00005435&bannerid=DL&source=WCOR,sales,"(14.119417, 40.852925)",80078
+804,804,STELLANTIS & YOU NAPOLI,,www.motorvillageitalia-napoli.it/concessionario/abarth?locationCode=00005870&bannerid=DL&source=WCOR,sales,"(14.276171, 40.854781)",80143
+805,805,FRENTAUTO S.P.A.,,www.frentauto.it/concessionario/abarth?locationCode=00007454&bannerid=DL&source=WCOR,sales,"(14.66568, 41.587612)",86100
+806,806,Sterpetti S.r.l.,,www.sterpetti-fcagroup.it/concessionario/abarth?locationCode=00000725&bannerid=DL&source=WCOR,sales,"(13.482727, 42.059835)",67051
+807,807,Giansante Auto S.r.l.,,www.giansante-fcagroup.it/concessionario/abarth?locationCode=00000133&bannerid=DL&source=WCOR,sales,"(14.14129, 42.36494)",66100
+808,808,GIANSANTE AUTO S.R.L.,,www.giansante-fcagroup.it/concessionario/abarth?locationCode=00000136&bannerid=DL&source=WCOR,sales,"(14.172055, 42.415644)",66020
+809,809,Danelli S.r.l.,,www.danelli-fcagroup.it/concessionario/abarth?locationCode=00003661&bannerid=DL&source=WCOR,sales,"(14.195162, 42.477888)",65124
+810,810,Progetto Auto,,www.progettoauto-srl.it/concessionario/abarth?locationCode=00002055&bannerid=DL&source=WCOR,sales,"(14.036636, 42.648327)",64025
+811,811,EMILCAR S.R.L.,,www.emilcar-fcagroup.it/concessionario/abarth?locationCode=00008434&bannerid=DL&source=WCOR,sales,"(13.60658, 42.85185)",63100
+812,812,Auto 4 S.r.l.,,www.auto4-fcagroup.it/concessionario/abarth?locationCode=00001891&bannerid=DL&source=WCOR,sales,"(13.937024, 42.801021)",64019
+813,813,Jolly Auto,,www.jollyauto-fcagroup.it/concessionario/abarth?locationCode=00003410&bannerid=DL&source=WCOR,sales,"(13.574583, 41.702831)",3039
+814,814,FRENTAUTO S.P.A.,,www.frentauto.it/concessionario/abarth?locationCode=00003343&bannerid=DL&source=WCOR,sales,"(14.431953, 42.21416)",66030
+815,815,EMILCAR S.R.L.,,www.emilcar-fcagroup.it/concessionario/abarth?locationCode=00008421&bannerid=DL&source=WCOR,sales,"(13.88276, 42.90805)",63039
+816,816,Giansante Auto S.r.l.,,www.giansante-fcagroup.it/concessionario/abarth?locationCode=00000133&bannerid=DL&source=WCOR,sales,"(14.14129, 42.36494)",66100
+817,817,GIANSANTE AUTO S.R.L.,,www.giansante-fcagroup.it/concessionario/abarth?locationCode=00000136&bannerid=DL&source=WCOR,sales,"(14.172055, 42.415644)",66020
+818,818,FRENTAUTO S.P.A.,,www.frentauto.it/concessionario/abarth?locationCode=00003343&bannerid=DL&source=WCOR,sales,"(14.431953, 42.21416)",66030
+819,819,Danelli S.r.l.,,www.danelli-fcagroup.it/concessionario/abarth?locationCode=00003661&bannerid=DL&source=WCOR,sales,"(14.195162, 42.477888)",65124
+820,820,Progetto Auto,,www.progettoauto-srl.it/concessionario/abarth?locationCode=00002055&bannerid=DL&source=WCOR,sales,"(14.036636, 42.648327)",64025
+821,821,FRENTAUTO S.P.A.,,www.frentauto.it/concessionario/abarth?locationCode=00006928&bannerid=DL&source=WCOR,sales,"(14.724834, 42.093006)",66054
+822,822,Auto 4 S.r.l.,,www.auto4-fcagroup.it/concessionario/abarth?locationCode=00001891&bannerid=DL&source=WCOR,sales,"(13.937024, 42.801021)",64019
+823,823,Sterpetti S.r.l.,,www.sterpetti-fcagroup.it/concessionario/abarth?locationCode=00000725&bannerid=DL&source=WCOR,sales,"(13.482727, 42.059835)",67051
+824,824,Fire Cars S.r.l.,,www.firecars-fcagroup.it/concessionario/abarth?locationCode=00003025&bannerid=DL&source=WCOR,sales,"(14.477922, 40.723864)",80053
+825,825,F. Ferrajoli E C. S.r.l.,,www.ferrajoli-fcagroup.it/concessionario/abarth?locationCode=00000436&bannerid=DL&source=WCOR,sales,"(14.623359, 40.747209)",84016
+826,826,STELLANTIS & YOU NAPOLI,,www.motorvillageitalia-napoli.it/concessionario/abarth?locationCode=00005870&bannerid=DL&source=WCOR,sales,"(14.276171, 40.854781)",80143
+827,827,Reginauto,,www.reginauto-fcagroup.it/concessionario/abarth?locationCode=00005435&bannerid=DL&source=WCOR,sales,"(14.119417, 40.852925)",80078
+828,828,GALDIERI AUTO S.R.L.,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00004600&bannerid=DL&source=WCOR,sales,"(14.77397, 40.75846)",84084
+829,829,Russauto Di E. Pianese S.r.l.,,www.russauto-srl.it/abarth?locationCode=00003247&bannerid=DL&source=WCOR,sales,"(14.156347, 40.927466)",80019
+830,830,Galdieri Auto,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00004601&bannerid=DL&source=WCOR,sales,"(14.852813, 40.648845)",84131
+831,831,F. FERRAJOLI E C. S.R.L.,,www.ferrajoli-fcagroup.it/concessionario/abarth?locationCode=00008211&bannerid=DL&source=WCOR,sales,"(14.555931, 40.944303)",80032
+832,832,AMICA & C. S.R.L.,,www.amica-fcagroup.it/concessionario/abarth?locationCode=00007420&bannerid=DL&source=WCOR,sales,"(14.333113, 41.042928)",81100
+833,833,GALDIERI AUTO S.R.L.,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00007901&bannerid=DL&source=WCOR,sales,"(14.82808, 40.92517)",83042
+834,834,SARA 3 S.R.L.,,www.concessionariasara3.it/concessionario/abarth?locationCode=00007553&bannerid=DL&source=WCOR,sales,"(14.777066, 41.143336)",82100
+835,835,AMICA & C. S.R.L.,,www.amica-fcagroup.it/concessionario/abarth?locationCode=00007420&bannerid=DL&source=WCOR,sales,"(14.333113, 41.042928)",81100
+836,836,F. FERRAJOLI E C. S.R.L.,,www.ferrajoli-fcagroup.it/concessionario/abarth?locationCode=00008211&bannerid=DL&source=WCOR,sales,"(14.555931, 40.944303)",80032
+837,837,Russauto Di E. Pianese S.r.l.,,www.russauto-srl.it/abarth?locationCode=00003247&bannerid=DL&source=WCOR,sales,"(14.156347, 40.927466)",80019
+838,838,SARA 3 S.R.L.,,www.concessionariasara3.it/concessionario/abarth?locationCode=00007553&bannerid=DL&source=WCOR,sales,"(14.777066, 41.143336)",82100
+839,839,STELLANTIS & YOU NAPOLI,,www.motorvillageitalia-napoli.it/concessionario/abarth?locationCode=00005870&bannerid=DL&source=WCOR,sales,"(14.276171, 40.854781)",80143
+840,840,Reginauto,,www.reginauto-fcagroup.it/concessionario/abarth?locationCode=00005435&bannerid=DL&source=WCOR,sales,"(14.119417, 40.852925)",80078
+841,841,GALDIERI AUTO S.R.L.,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00007901&bannerid=DL&source=WCOR,sales,"(14.82808, 40.92517)",83042
+842,842,FRENTAUTO S.P.A.,,www.frentauto.it/concessionario/abarth?locationCode=00007454&bannerid=DL&source=WCOR,sales,"(14.66568, 41.587612)",86100
+843,843,Fire Cars S.r.l.,,www.firecars-fcagroup.it/concessionario/abarth?locationCode=00003025&bannerid=DL&source=WCOR,sales,"(14.477922, 40.723864)",80053
+844,844,F. Ferrajoli E C. S.r.l.,,www.ferrajoli-fcagroup.it/concessionario/abarth?locationCode=00000436&bannerid=DL&source=WCOR,sales,"(14.623359, 40.747209)",84016
+845,845,Eco Liri,,www.ecoliri.it/concessionario/abarth?locationCode=00003334&bannerid=DL&source=WCOR,sales,"(13.762412, 41.405173)",3047
+846,846,GALDIERI AUTO S.R.L.,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00004600&bannerid=DL&source=WCOR,sales,"(14.77397, 40.75846)",84084
+847,847,Galdieri Auto,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00004601&bannerid=DL&source=WCOR,sales,"(14.852813, 40.648845)",84131
+848,848,Galdieri Auto,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00004601&bannerid=DL&source=WCOR,sales,"(14.852813, 40.648845)",84131
+849,849,GALDIERI AUTO S.R.L.,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00004600&bannerid=DL&source=WCOR,sales,"(14.77397, 40.75846)",84084
+850,850,F. Ferrajoli E C. S.r.l.,,www.ferrajoli-fcagroup.it/concessionario/abarth?locationCode=00000436&bannerid=DL&source=WCOR,sales,"(14.623359, 40.747209)",84016
+851,851,GALDIERI AUTO S.R.L.,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00007901&bannerid=DL&source=WCOR,sales,"(14.82808, 40.92517)",83042
+852,852,Fire Cars S.r.l.,,www.firecars-fcagroup.it/concessionario/abarth?locationCode=00003025&bannerid=DL&source=WCOR,sales,"(14.477922, 40.723864)",80053
+853,853,F. FERRAJOLI E C. S.R.L.,,www.ferrajoli-fcagroup.it/concessionario/abarth?locationCode=00008211&bannerid=DL&source=WCOR,sales,"(14.555931, 40.944303)",80032
+854,854,SARA 3 S.R.L.,,www.concessionariasara3.it/concessionario/abarth?locationCode=00007553&bannerid=DL&source=WCOR,sales,"(14.777066, 41.143336)",82100
+855,855,STELLANTIS & YOU NAPOLI,,www.motorvillageitalia-napoli.it/concessionario/abarth?locationCode=00005870&bannerid=DL&source=WCOR,sales,"(14.276171, 40.854781)",80143
+856,856,MAFFEI S.R.L.,,www.maffei-fcagroup.it/concessionario/abarth?locationCode=00007350&bannerid=DL&source=WCOR,sales,"(15.80971, 40.62983)",85100
+857,857,AMICA & C. S.R.L.,,www.amica-fcagroup.it/concessionario/abarth?locationCode=00007420&bannerid=DL&source=WCOR,sales,"(14.333113, 41.042928)",81100
+858,858,SARA 3 S.R.L.,,www.concessionariasara3.it/concessionario/abarth?locationCode=00007553&bannerid=DL&source=WCOR,sales,"(14.777066, 41.143336)",82100
+859,859,GALDIERI AUTO S.R.L.,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00007901&bannerid=DL&source=WCOR,sales,"(14.82808, 40.92517)",83042
+860,860,F. FERRAJOLI E C. S.R.L.,,www.ferrajoli-fcagroup.it/concessionario/abarth?locationCode=00008211&bannerid=DL&source=WCOR,sales,"(14.555931, 40.944303)",80032
+861,861,GALDIERI AUTO S.R.L.,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00004600&bannerid=DL&source=WCOR,sales,"(14.77397, 40.75846)",84084
+862,862,FRENTAUTO S.P.A.,,www.frentauto.it/concessionario/abarth?locationCode=00007454&bannerid=DL&source=WCOR,sales,"(14.66568, 41.587612)",86100
+863,863,AMICA & C. S.R.L.,,www.amica-fcagroup.it/concessionario/abarth?locationCode=00007420&bannerid=DL&source=WCOR,sales,"(14.333113, 41.042928)",81100
+864,864,F. Ferrajoli E C. S.r.l.,,www.ferrajoli-fcagroup.it/concessionario/abarth?locationCode=00000436&bannerid=DL&source=WCOR,sales,"(14.623359, 40.747209)",84016
+865,865,Euro Vector,,www.eurovector-fcagroup.it/concessionario/abarth?locationCode=00006531&bannerid=DL&source=WCOR,sales,"(15.562241, 41.4698)",71121
+866,866,Galdieri Auto,,www.galdieri-fcagroup.it/concessionario/abarth?locationCode=00004601&bannerid=DL&source=WCOR,sales,"(14.852813, 40.648845)",84131
+867,867,Fire Cars S.r.l.,,www.firecars-fcagroup.it/concessionario/abarth?locationCode=00003025&bannerid=DL&source=WCOR,sales,"(14.477922, 40.723864)",80053
+868,868,STELLANTIS & YOU NAPOLI,,www.motorvillageitalia-napoli.it/concessionario/abarth?locationCode=00005870&bannerid=DL&source=WCOR,sales,"(14.276171, 40.854781)",80143
+869,869,Russauto Di E. Pianese S.r.l.,,www.russauto-srl.it/abarth?locationCode=00003247&bannerid=DL&source=WCOR,sales,"(14.156347, 40.927466)",80019
+870,870,Euro Vector,,www.eurovector-fcagroup.it/concessionario/abarth?locationCode=00006531&bannerid=DL&source=WCOR,sales,"(15.562241, 41.4698)",71121
+871,871,FRENTAUTO S.P.A.,,www.frentauto.it/concessionario/abarth?locationCode=00007454&bannerid=DL&source=WCOR,sales,"(14.66568, 41.587612)",86100
+872,872,MALDARIZZI AUTOMOTIVE S.P.A.,,www.maldarizzi-fcagroup.it/concessionario/abarth?locationCode=00007280&bannerid=DL&source=WCOR,sales,"(16.38926, 41.285552)",76125
+873,873,MAFFEI S.R.L.,,www.maffei-fcagroup.it/concessionario/abarth?locationCode=00008129&bannerid=DL&source=WCOR,sales,"(16.553363, 40.811634)",70022
+874,874,MAFFEI S.R.L.,,www.maffei-fcagroup.it/concessionario/abarth?locationCode=00007350&bannerid=DL&source=WCOR,sales,"(15.80971, 40.62983)",85100
+875,875,Autoclub S.r.l.,,www.autoclub-srl.it/concessionario/abarth?locationCode=00005273&bannerid=DL&source=WCOR,sales,"(16.820806, 41.131511)",70132
+876,876,MALDARIZZI AUTOMOTIVE S.P.A.,,www.maldarizzi-fcagroup.it/concessionario/abarth?locationCode=00005529&bannerid=DL&source=WCOR,sales,"(16.890227, 41.116295)",70126
+877,877,Euro Vector,,www.eurovector-fcagroup.it/concessionario/abarth?locationCode=00006531&bannerid=DL&source=WCOR,sales,"(15.562241, 41.4698)",71121
+878,878,Autoclub S.r.l.,,www.autoclub-srl.it/concessionario/abarth?locationCode=00005273&bannerid=DL&source=WCOR,sales,"(16.820806, 41.131511)",70132
+879,879,MALDARIZZI AUTOMOTIVE S.P.A.,,www.maldarizzi-fcagroup.it/concessionario/abarth?locationCode=00005529&bannerid=DL&source=WCOR,sales,"(16.890227, 41.116295)",70126
+880,880,MAFFEI S.R.L.,,www.maffei-fcagroup.it/concessionario/abarth?locationCode=00008129&bannerid=DL&source=WCOR,sales,"(16.553363, 40.811634)",70022
+881,881,MALDARIZZI AUTOMOTIVE S.P.A.,,www.maldarizzi-fcagroup.it/concessionario/abarth?locationCode=00007280&bannerid=DL&source=WCOR,sales,"(16.38926, 41.285552)",76125
+882,882,AUTOCLUB  S.R.L.,,www.autoclub-srl.it/concessionario/abarth?locationCode=00008044&bannerid=DL&source=WCOR,sales,"(17.095121, 40.591416)",74016
+883,883,Nuova Auto 3 S.r.l.,,www.nuovaauto3-fcagroup.it/concessionario/abarth?locationCode=00003928&bannerid=DL&source=WCOR,sales,"(17.375266, 40.830157)",72015
+884,884,AUTOCLUB  S.R.L.,,www.autoclub-srl.it/concessionario/abarth?locationCode=00008044&bannerid=DL&source=WCOR,sales,"(17.095121, 40.591416)",74016
+885,885,Nuova Auto 3 S.r.l.,,www.nuovaauto3-fcagroup.it/concessionario/abarth?locationCode=00003928&bannerid=DL&source=WCOR,sales,"(17.375266, 40.830157)",72015
+886,886,AUTOSAT S.P.A.,,www.autosat-spa.it/concessionario/abarth?locationCode=00007206&bannerid=DL&source=WCOR,sales,"(17.941762, 40.632728)",72100
+887,887,Autosat,,www.autosat-spa.it/concessionario/abarth?locationCode=00005079&bannerid=DL&source=WCOR,sales,"(18.144, 40.373)",73010
+888,888,Autosat,,www.autosat-spa.it/concessionario/abarth?locationCode=00005079&bannerid=DL&source=WCOR,sales,"(18.144, 40.373)",73010
+889,889,AUTOSAT S.P.A.,,www.autosat-spa.it/concessionario/abarth?locationCode=00007206&bannerid=DL&source=WCOR,sales,"(17.941762, 40.632728)",72100
+890,890,Nuova Auto 3 S.r.l.,,www.nuovaauto3-fcagroup.it/concessionario/abarth?locationCode=00003928&bannerid=DL&source=WCOR,sales,"(17.375266, 40.830157)",72015
+891,891,AUTOCLUB  S.R.L.,,www.autoclub-srl.it/concessionario/abarth?locationCode=00008044&bannerid=DL&source=WCOR,sales,"(17.095121, 40.591416)",74016
+892,892,MAFFEI S.R.L.,,www.maffei-fcagroup.it/concessionario/abarth?locationCode=00007350&bannerid=DL&source=WCOR,sales,"(15.80971, 40.62983)",85100
+893,893,MAFFEI S.R.L.,,www.maffei-fcagroup.it/concessionario/abarth?locationCode=00008129&bannerid=DL&source=WCOR,sales,"(16.553363, 40.811634)",70022
+894,894,MALDARIZZI AUTOMOTIVE S.P.A.,,www.maldarizzi-fcagroup.it/concessionario/abarth?locationCode=00007280&bannerid=DL&source=WCOR,sales,"(16.38926, 41.285552)",76125
+895,895,Euro Vector,,www.eurovector-fcagroup.it/concessionario/abarth?locationCode=00006531&bannerid=DL&source=WCOR,sales,"(15.562241, 41.4698)",71121
+896,896,MAFFEI S.R.L.,,www.maffei-fcagroup.it/concessionario/abarth?locationCode=00007350&bannerid=DL&source=WCOR,sales,"(15.80971, 40.62983)",85100
+897,897,MAFFEI S.R.L.,,www.maffei-fcagroup.it/concessionario/abarth?locationCode=00008129&bannerid=DL&source=WCOR,sales,"(16.553363, 40.811634)",70022
+898,898,Autoclub S.r.l.,,www.autoclub-srl.it/concessionario/abarth?locationCode=00005273&bannerid=DL&source=WCOR,sales,"(16.820806, 41.131511)",70132
+899,899,MAFFEI S.R.L.,,www.maffei-fcagroup.it/concessionario/abarth?locationCode=00008129&bannerid=DL&source=WCOR,sales,"(16.553363, 40.811634)",70022
+900,900,AUTOCLUB  S.R.L.,,www.autoclub-srl.it/concessionario/abarth?locationCode=00008044&bannerid=DL&source=WCOR,sales,"(17.095121, 40.591416)",74016
+901,901,MAFFEI S.R.L.,,www.maffei-fcagroup.it/concessionario/abarth?locationCode=00007350&bannerid=DL&source=WCOR,sales,"(15.80971, 40.62983)",85100
+902,902,I.C.A.R.,,www.icar-fcagroup.it/concessionario/abarth?locationCode=00000770&bannerid=DL&source=WCOR,sales,"(15.901212, 38.422236)",89013
+903,903,Auto C S.r.l.,,www.autoc-fcagroup.it/concessionario/abarth?locationCode=00003491&bannerid=DL&source=WCOR,sales,"(16.530048, 38.707424)",88060
+904,904,"AUTO ""C"" S.R.L.",,www.autoc-fcagroup.it/concessionario/abarth?locationCode=00008322&bannerid=DL&source=WCOR,sales,"(16.272817, 38.917593)",88046
+905,905,BENCIVENNI S.R.L.,,www.bencivenniauto.it/concessionario/abarth?locationCode=00003194&bannerid=DL&source=WCOR,sales,"(16.541976, 38.890498)",88100
+906,906,VUMBACA AUTO S.R.L.,,www.vumbacaauto.it/concessionario/abarth?locationCode=00008319&bannerid=DL&source=WCOR,sales,"(15.663999, 38.086972)",89100
+907,907,SCIOTTO AUTOMOBILI S.R.L.,,www.sciottoautomobili-fcagroup.it/concessionario/abarth?locationCode=00007703&bannerid=DL&source=WCOR,sales,"(15.522355, 38.136864)",98100
+908,908,"AUTO ""C"" S.R.L.",,www.autoc-fcagroup.it/concessionario/abarth?locationCode=00008322&bannerid=DL&source=WCOR,sales,"(16.272817, 38.917593)",88046
+909,909,Gruppo Carlomagno,,www.carlomagno-fcagroup.it/concessionario/abarth?locationCode=00001310&bannerid=DL&source=WCOR,sales,"(16.255948, 39.367562)",87036
+910,910,BENCIVENNI S.R.L.,,www.bencivenniauto.it/concessionario/abarth?locationCode=00003194&bannerid=DL&source=WCOR,sales,"(16.541976, 38.890498)",88100
+911,911,Auto C S.r.l.,,www.autoc-fcagroup.it/concessionario/abarth?locationCode=00003491&bannerid=DL&source=WCOR,sales,"(16.530048, 38.707424)",88060
+912,912,Top Cars Di Romeo & C.S.r.l.,,www.topcars-fcagroup.it/concessionario/abarth?locationCode=00003425&bannerid=DL&source=WCOR,sales,"(16.6442, 39.59382)",87064
+913,913,Top Cars Di Romeo & C.S.r.l.,,www.topcars-fcagroup.it/concessionario/abarth?locationCode=00003425&bannerid=DL&source=WCOR,sales,"(16.6442, 39.59382)",87064
+914,914,Gruppo Carlomagno,,www.carlomagno-fcagroup.it/concessionario/abarth?locationCode=00001310&bannerid=DL&source=WCOR,sales,"(16.255948, 39.367562)",87036
+915,915,BENCIVENNI S.R.L.,,www.bencivenniauto.it/concessionario/abarth?locationCode=00003194&bannerid=DL&source=WCOR,sales,"(16.541976, 38.890498)",88100
+916,916,Auto C S.r.l.,,www.autoc-fcagroup.it/concessionario/abarth?locationCode=00003491&bannerid=DL&source=WCOR,sales,"(16.530048, 38.707424)",88060
+917,917,"AUTO ""C"" S.R.L.",,www.autoc-fcagroup.it/concessionario/abarth?locationCode=00008322&bannerid=DL&source=WCOR,sales,"(16.272817, 38.917593)",88046
+918,918,Top Cars Di Romeo & C.S.r.l.,,www.topcars-fcagroup.it/concessionario/abarth?locationCode=00003425&bannerid=DL&source=WCOR,sales,"(16.6442, 39.59382)",87064
+919,919,Gruppo Carlomagno,,www.carlomagno-fcagroup.it/concessionario/abarth?locationCode=00001310&bannerid=DL&source=WCOR,sales,"(16.255948, 39.367562)",87036
+920,920,NUOVA SICILAUTO S.R.L.,,www.nuovasicilauto-fcagroup.it/concessionario/abarth?locationCode=00007844&bannerid=DL&source=WCOR,sales,"(12.533507, 38.015743)",91100
+921,921,Nuova Sicilauto,,www.nuovasicilauto-fcagroup.it/concessionario/abarth?locationCode=00005181&bannerid=DL&source=WCOR,sales,"(13.19966, 38.157288)",90044
+922,922,Nuova Sicilauto,,www.nuovasicilauto-fcagroup.it/concessionario/abarth?locationCode=00005181&bannerid=DL&source=WCOR,sales,"(13.19966, 38.157288)",90044
+923,923,NUOVA SICILAUTO S.R.L.,,www.nuovasicilauto-fcagroup.it/concessionario/abarth?locationCode=00005182&bannerid=DL&source=WCOR,sales,"(13.337199, 38.141886)",90144
+924,924,STELLANTIS & YOU PALERMO,,www.motorvillageitalia-palermo.it/concessionario/abarth?locationCode=00005873&bannerid=DL&source=WCOR,sales,"(13.34971, 38.146067)",90143
+925,925,NUOVA SICILAUTO S.R.L.,,www.nuovasicilauto-fcagroup.it/concessionario/abarth?locationCode=00007844&bannerid=DL&source=WCOR,sales,"(12.533507, 38.015743)",91100
+926,926,Guadagni,,www.guadagni-fcagroup.it/concessionario/abarth?locationCode=00000103&bannerid=DL&source=WCOR,sales,"(13.628337, 37.357032)",92021
+927,927,Guadagni,,www.guadagni-fcagroup.it/concessionario/abarth?locationCode=00000103&bannerid=DL&source=WCOR,sales,"(13.628337, 37.357032)",92021
+928,928,A.D. Pugliese S.p.A.,,www.adpugliese-fcagroup.it/concessionario/abarth?locationCode=00002574&bannerid=DL&source=WCOR,sales,"(14.075835, 37.507296)",93100
+929,929,STELLANTIS & YOU PALERMO,,www.motorvillageitalia-palermo.it/concessionario/abarth?locationCode=00005873&bannerid=DL&source=WCOR,sales,"(13.34971, 38.146067)",90143
+930,930,NUOVA SICILAUTO S.R.L.,,www.nuovasicilauto-fcagroup.it/concessionario/abarth?locationCode=00005182&bannerid=DL&source=WCOR,sales,"(13.337199, 38.141886)",90144
+931,931,A.D. Pugliese S.p.A.,,www.adpugliese-fcagroup.it/concessionario/abarth?locationCode=00002574&bannerid=DL&source=WCOR,sales,"(14.075835, 37.507296)",93100
+932,932,Nuova Sicilauto,,www.nuovasicilauto-fcagroup.it/concessionario/abarth?locationCode=00005181&bannerid=DL&source=WCOR,sales,"(13.19966, 38.157288)",90044
+933,933,Guadagni,,www.guadagni-fcagroup.it/concessionario/abarth?locationCode=00000103&bannerid=DL&source=WCOR,sales,"(13.628337, 37.357032)",92021
+934,934,A.D. Pugliese S.p.A.,,www.adpugliese-fcagroup.it/concessionario/abarth?locationCode=00002574&bannerid=DL&source=WCOR,sales,"(14.075835, 37.507296)",93100
+935,935,S.C.A.R. S.P.A.,,www.grupposcar.com/concessionario/abarth?locationCode=00000024&bannerid=DL&source=WCOR,sales,"(14.71773, 36.903676)",97100
+936,936,Guadagni,,www.guadagni-fcagroup.it/concessionario/abarth?locationCode=00000103&bannerid=DL&source=WCOR,sales,"(13.628337, 37.357032)",92021
+937,937,NUOVA SPORT CAR S.P.A.,,www.nuovasportcar.com/concessionario/abarth?locationCode=00008201&bannerid=DL&source=WCOR,sales,"(15.018051, 37.462225)",95100
+938,938,KATANE' AUTO S.R.L.,,www.kataneauto-fcagroup.it/concessionario/abarth?locationCode=00007599&bannerid=DL&source=WCOR,sales,"(15.035264, 37.511431)",95045
+939,939,A.D. PUGLIESE  S.P.A.,,www.adpugliese-fcagroup.it/concessionario/abarth?locationCode=00002577&bannerid=DL&source=WCOR,sales,"(15.126535, 37.180744)",96010
+940,940,A.D. Pugliese S.p.A.,,www.adpugliese-fcagroup.it/concessionario/abarth?locationCode=00002574&bannerid=DL&source=WCOR,sales,"(14.075835, 37.507296)",93100
+941,941,NUOVA SPORT CAR S.P.A.,,www.nuovasportcar.com/concessionario/abarth?locationCode=00008201&bannerid=DL&source=WCOR,sales,"(15.018051, 37.462225)",95100
+942,942,A.D. PUGLIESE  S.P.A.,,www.adpugliese-fcagroup.it/concessionario/abarth?locationCode=00002577&bannerid=DL&source=WCOR,sales,"(15.126535, 37.180744)",96010
+943,943,KATANE' AUTO S.R.L.,,www.kataneauto-fcagroup.it/concessionario/abarth?locationCode=00007599&bannerid=DL&source=WCOR,sales,"(15.035264, 37.511431)",95045
+944,944,S.C.A.R. S.P.A.,,www.grupposcar.com/concessionario/abarth?locationCode=00000024&bannerid=DL&source=WCOR,sales,"(14.71773, 36.903676)",97100
+945,945,KATANE' AUTO S.R.L.,,www.kataneauto-fcagroup.it/concessionario/abarth?locationCode=00007599&bannerid=DL&source=WCOR,sales,"(15.035264, 37.511431)",95045
+946,946,SCIOTTO AUTOMOBILI S.R.L.,,www.sciottoautomobili-fcagroup.it/concessionario/abarth?locationCode=00007714&bannerid=DL&source=WCOR,sales,"(15.305852, 38.200481)",98042
+947,947,NUOVA SPORT CAR S.P.A.,,www.nuovasportcar.com/concessionario/abarth?locationCode=00008201&bannerid=DL&source=WCOR,sales,"(15.018051, 37.462225)",95100
+948,948,SCIOTTO AUTOMOBILI S.R.L.,,www.sciottoautomobili-fcagroup.it/concessionario/abarth?locationCode=00007703&bannerid=DL&source=WCOR,sales,"(15.522355, 38.136864)",98100
+949,949,VUMBACA AUTO S.R.L.,,www.vumbacaauto.it/concessionario/abarth?locationCode=00008319&bannerid=DL&source=WCOR,sales,"(15.663999, 38.086972)",89100
+950,950,SCIOTTO AUTOMOBILI S.R.L.,,www.sciottoautomobili-fcagroup.it/concessionario/abarth?locationCode=00007714&bannerid=DL&source=WCOR,sales,"(15.305852, 38.200481)",98042
+951,951,SCIOTTO AUTOMOBILI S.R.L.,,www.sciottoautomobili-fcagroup.it/concessionario/abarth?locationCode=00007703&bannerid=DL&source=WCOR,sales,"(15.522355, 38.136864)",98100
+952,952,Lai Automobili,,www.lai-automobili.it/concessionario/abarth?locationCode=00003670&bannerid=DL&source=WCOR,sales,"(8.500289, 39.176275)",9013
+953,953,Acentro,,www.gruppoacentro-fcagroup.it/concessionario/abarth?locationCode=00001524&bannerid=DL&source=WCOR,sales,"(9.123192, 39.238429)",9134
+954,954,UNIDAC S.R.L. - ACENTRO,,www.gruppoacentro-fcagroup.it/concessionario/abarth?locationCode=00001539&bannerid=DL&source=WCOR,sales,"(8.591524, 39.900918)",9170
+955,955,UNIDAC S.R.L. - ACENTRO,,www.gruppoacentro-fcagroup.it/concessionario/abarth?locationCode=00001539&bannerid=DL&source=WCOR,sales,"(8.591524, 39.900918)",9170
+956,956,AutoA,,www.autoa-fcagroup.it/concessionario/abarth?locationCode=00002660&bannerid=DL&source=WCOR,sales,"(8.529964, 40.733295)",7100
+957,957,Pincar S.r.l.,,www.pincar-fcagroup.it/concessionario/abarth?locationCode=00002569&bannerid=DL&source=WCOR,sales,"(9.510975, 40.933238)",7026
+958,958,Acentro,,www.gruppoacentro-fcagroup.it/concessionario/abarth?locationCode=00001524&bannerid=DL&source=WCOR,sales,"(9.123192, 39.238429)",9134
+959,959,UNIDAC S.R.L. - ACENTRO,,www.gruppoacentro-fcagroup.it/concessionario/abarth?locationCode=00001539&bannerid=DL&source=WCOR,sales,"(8.591524, 39.900918)",9170
+960,960,Pincar S.r.l.,,www.pincar-fcagroup.it/concessionario/abarth?locationCode=00002569&bannerid=DL&source=WCOR,sales,"(9.510975, 40.933238)",7026
+961,961,AutoA,,www.autoa-fcagroup.it/concessionario/abarth?locationCode=00002660&bannerid=DL&source=WCOR,sales,"(8.529964, 40.733295)",7100
